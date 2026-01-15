@@ -20,7 +20,6 @@ export default async function handler(
 
   try {
     console.log(req.headers);
-    // Check authorization
     const user = await puppeteerUserFromReq(req);
 
     if (!user) {
