@@ -1,3 +1,5 @@
+## ToDo: convert this to simple node express server instead of nextjs
+
 ## Setup
 
 ```bash
