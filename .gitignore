@@ -36,3 +36,5 @@ next-env.d.ts
 # puppeteer
 /puppeteer-cache
 /generated-pdfs
+
+/dist
