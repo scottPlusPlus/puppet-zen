@@ -1,19 +1,13 @@
 import { Router, Request, Response } from 'express';
 import fs from 'fs';
-import { logger } from '../../lib/logger/logger';
-import { PDF_AUTH_HEADER, PdfService } from '../../lib/pdfService';
-import { puppeteerUserFromReq } from '../../lib/authUtils';
+import { logger } from '../../../lib/logger/logger';
+import { PDF_AUTH_HEADER, PdfService } from '../../../lib/pdfService';
+import { puppeteerUserFromReq } from '../../../lib/authUtils';
 
 const router = Router();
 
-/**
- * URL to PDF generation endpoint
- * POST /api/pdf/url-to-pdf
- * Generates a PDF from a given URL using Puppeteer
- */
-router.post('/url-to-pdf', async (req: Request, res: Response) => {
+router.post('/', async (req: Request, res: Response) => {
   try {
-    console.log(req.headers);
     const user = await puppeteerUserFromReq(req);
 
     if (!user) {

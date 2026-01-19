@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-pdf-service",
+  "name": "puppeteer-service",
   "version": "1.0.0",
   "private": true,
   "scripts": {

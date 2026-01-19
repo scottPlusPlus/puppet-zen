@@ -1,14 +1,9 @@
 import { Router, Request, Response } from 'express';
 import puppeteer from 'puppeteer';
-import { logger } from '../../lib/logger/logger';
+import { logger } from '../../../lib/logger/logger';
 
 const router = Router();
 
-/**
- * Health check endpoint
- * GET /api/health
- * Checks service health and browser connectivity
- */
 router.get('/', async (req: Request, res: Response) => {
   try {
     logger.info('[Health] Health check requested');
@@ -36,7 +31,7 @@ router.get('/', async (req: Request, res: Response) => {
     const response = {
       status: 'ok',
       timestamp: new Date().toISOString(),
-      service: 'puppeteer-pdf-service',
+      service: 'puppeteer-service',
       version: '1.0.0',
       browserConnected,
       browserVersion: browserConnected ? browserVersion : undefined,
