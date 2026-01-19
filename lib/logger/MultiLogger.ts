@@ -39,9 +39,6 @@ export default class MultiLogger implements IReadableLogger {
   }
 
   async recentLogs(count: number): Promise<string[]> {
-    if (typeof window !== "undefined") {
-      return [];
-    }
     for (const logger of this.debugLoggers) {
       try {
         return await logger.recentLogs(count);
@@ -53,9 +50,6 @@ export default class MultiLogger implements IReadableLogger {
   }
 
   async grep(searchTerm: string): Promise<string[]> {
-    if (typeof window !== "undefined") {
-      return [];
-    }
     for (const logger of this.debugLoggers) {
       try {
         return await logger.grep(searchTerm);

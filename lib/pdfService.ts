@@ -1,7 +1,7 @@
 import puppeteer, { Browser, Page } from "puppeteer";
 import fs from "fs";
 import path from "path";
-import { logger } from "@/lib/logger/logger";
+import { logger } from "./logger/logger";
 
 export const PDF_AUTH_HEADER = "x-pdf-access-token";
 

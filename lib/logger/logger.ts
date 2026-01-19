@@ -3,7 +3,8 @@ import GrafanaLogger from "./GrafanaLogger";
 import IReadableLogger from "./IReadableLogger";
 import MultiLogger from "./MultiLogger";
 
-const isServer = typeof window === "undefined";
+// We're always on the server in Express (no client-side rendering)
+const isServer = true;
 
 export const logger: IReadableLogger =
   ((process.env.NODE_ENV === "production" || process.env.USE_PROD_LOGGER) && isServer)

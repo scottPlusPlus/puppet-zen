@@ -1,5 +1,5 @@
 import { NextApiRequest } from "next";
-import { logger } from "@/lib/logger/logger";
+import { logger } from "./logger/logger";
 
 // Stub implementations for web request utilities
 // These are simplified versions without full authentication
