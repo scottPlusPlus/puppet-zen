@@ -1,36 +1,24 @@
-import { NextApiRequest, NextApiResponse } from "next";
-import { logger } from "@/lib/logger/logger";
-import { PDF_AUTH_HEADER, PdfService } from "@/lib/pdfService";
-import { puppeteerUserFromReq } from "@/lib/authUtils";
-import fs from "fs";
+import { Router, Request, Response } from 'express';
+import fs from 'fs';
+import { logger } from '../../../lib/logger/logger';
+import { PDF_AUTH_HEADER, PdfService } from '../../../lib/pdfService';
+import { puppeteerUserFromReq } from '../../../lib/authUtils';
 
-export const config = {
-  api: {
-    responseLimit: false,
-  },
-};
+const router = Router();
 
-export default async function handler(
-  req: NextApiRequest,
-  res: NextApiResponse
-) {
-  if (req.method !== "POST") {
-    return res.status(405).json({ error: "Method not allowed" });
-  }
-
+router.post('/', async (req: Request, res: Response) => {
   try {
-    console.log(req.headers);
     const user = await puppeteerUserFromReq(req);
 
     if (!user) {
-      logger.warn("[PDF API] Unauthorized");
-      return res.status(401).json({ error: "Unauthorized" });
+      logger.warn('[PDF API] Unauthorized');
+      return res.status(401).json({ error: 'Unauthorized' });
     }
 
     const { url, reportId, reportTitle } = req.body;
 
     if (!url) {
-      return res.status(400).json({ error: "URL is required" });
+      return res.status(400).json({ error: 'URL is required' });
     }
 
     const pdfAuthToken = req.headers[PDF_AUTH_HEADER] as string;
@@ -57,18 +45,18 @@ export default async function handler(
         duration: result.duration,
       });
 
-      res.setHeader("Content-Type", "application/pdf");
+      res.setHeader('Content-Type', 'application/pdf');
       res.setHeader(
-        "Content-Disposition",
+        'Content-Disposition',
         `attachment; filename="${result.filename}"`
       );
-      res.setHeader("Content-Length", result.size || 0);
+      res.setHeader('Content-Length', result.size || 0);
 
       const fileStream = fs.createReadStream(result.filePath!);
 
       fileStream.pipe(res);
 
-      res.on("finish", () => {
+      res.on('finish', () => {
         logger.info(`[PDF API] PDF streamed successfully`);
 
         try {
@@ -79,7 +67,7 @@ export default async function handler(
         }
       });
 
-      fileStream.on("error", (error: Error) => {
+      fileStream.on('error', (error: Error) => {
         logger.error(`[PDF API] Stream error:`, error);
 
         fileStream.destroy();
@@ -95,7 +83,7 @@ export default async function handler(
 
         if (!res.headersSent) {
           res.status(500).json({
-            error: "Failed to stream PDF",
+            error: 'Failed to stream PDF',
             message: error.message,
           });
         }
@@ -104,17 +92,19 @@ export default async function handler(
       logger.error(`[PDF API] Failed:`, result.error);
 
       return res.status(500).json({
-        error: "Failed to generate PDF",
+        error: 'Failed to generate PDF',
         message: result.error,
         duration: result.duration,
       });
     }
   } catch (error) {
-    logger.error("[PDF API] Unexpected error:", error);
+    logger.error('[PDF API] Unexpected error:', error);
 
     return res.status(500).json({
-      error: "Internal server error",
-      message: error instanceof Error ? error.message : "Unknown error",
+      error: 'Internal server error',
+      message: error instanceof Error ? error.message : 'Unknown error',
     });
   }
-}
+});
+
+export default router;

@@ -1,15 +1,10 @@
 import IReadableLogger from "./IReadableLogger";
 
-let winston: any;
-let LokiTransport: any;
-
-if (typeof window === "undefined") {
-  winston = require("winston");
-  LokiTransport = require("winston-loki");
-}
+// Always on server in Express (no client-side rendering)
+const winston = require("winston");
+const LokiTransport = require("winston-loki");
 
 function createGrafanaLogger(domain: string) {
-  if (typeof window === "undefined") {
     const lokiHost = process.env.GRAFANA_LOKI_HOST || "";
     const lokiUsername = process.env.GRAFANA_LOKI_USERNAME || "";
     const lokiPassword = process.env.GRAFANA_LOKI_PASSWORD || "";
@@ -47,8 +42,6 @@ function createGrafanaLogger(domain: string) {
         new winston.transports.Console(),
       ],
     });
-  }
-  return null;
 };
 
 export default class GrafanaLogger implements IReadableLogger {
@@ -57,7 +50,7 @@ export default class GrafanaLogger implements IReadableLogger {
 
   constructor(domain: string, showDebug: boolean) {
     this.domain = domain;
-    if (!this.grafanaLogger && typeof window === "undefined") {
+    if (!this.grafanaLogger) {
       this.grafanaLogger = createGrafanaLogger(domain);
     }
     if (!showDebug) {
@@ -127,10 +120,6 @@ export default class GrafanaLogger implements IReadableLogger {
   }
 
   async recentLogs(count: number): Promise<string[]> {
-    if (typeof window !== "undefined") {
-      return [];
-    }
-
     console.warn(
       "recentLogs is not directly available with Grafana Cloud. Use Grafana dashboard to query recent logs."
     );
@@ -138,10 +127,6 @@ export default class GrafanaLogger implements IReadableLogger {
   }
 
   async grep(searchTerm: string): Promise<string[]> {
-    if (typeof window !== "undefined") {
-      return [];
-    }
-
     console.warn(
       "grep is not directly available with Grafana Cloud. Use LogQL queries in Grafana dashboard to search logs."
     );

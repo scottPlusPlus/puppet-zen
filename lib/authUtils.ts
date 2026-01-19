@@ -1,5 +1,4 @@
-import { NextApiRequest } from "next";
-import { logger } from "@/lib/logger/logger";
+import { logger } from "./logger/logger";
 
 export type PuppeteerUser = {
   key: string;
@@ -8,11 +7,19 @@ export type PuppeteerUser = {
 
 let _users: Array<PuppeteerUser> | null = null;
 
+// Type that works with both Next.js and Express requests
+type RequestWithHeaders = {
+  headers: {
+    authorization?: string;
+  };
+};
+
 /**
  * Get puppeteer user from request Authorization header
+ * Works with both Next.js and Express requests
  */
 export async function puppeteerUserFromReq(
-  req: NextApiRequest
+  req: RequestWithHeaders
 ): Promise<PuppeteerUser | null> {
   const authHeader = req.headers.authorization;
 
