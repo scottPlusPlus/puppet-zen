@@ -7,8 +7,7 @@ export const PDF_AUTH_HEADER = "x-pdf-access-token";
 
 export interface PdfGenerationOptions {
   url: string;
-  reportId?: string;
-  reportTitle?: string;
+  filename?: string;
   pdfAuthToken?: string | null;
   testMode?: boolean;
 }
@@ -99,7 +98,7 @@ export class PdfService {
   }
 
   async generatePdf(
-    options: PdfGenerationOptions
+    options: PdfGenerationOptions,
   ): Promise<PdfGenerationResult> {
     const startTime = nowUnixTimestamp();
     let browser: Browser | undefined;
@@ -121,21 +120,17 @@ export class PdfService {
       const pdfBuffer = await this.generatePdfBuffer(page);
       await browser.close();
 
-      const filename = this.createFilename(
-        options.reportId,
-        options.reportTitle
-      );
-      const filePath = this.savePdf(pdfBuffer, filename);
+      const filePath = this.savePdf(pdfBuffer, options.filename || "test");
       const duration = nowUnixTimestamp() - startTime;
 
       logger.info(
-        `[PdfService] PDF generated in ${duration}ms (${pdfBuffer.length} bytes)`
+        `[PdfService] PDF generated in ${duration}ms (${pdfBuffer.length} bytes)`,
       );
 
       return {
         success: true,
         filePath,
-        filename,
+        filename: options.filename || "test",
         size: pdfBuffer.length,
         duration,
       };
@@ -163,12 +158,12 @@ export class PdfService {
 
     if (process.env.PUPPETEER_EXECUTABLE_PATH) {
       logger.info(
-        `[PdfService] Using env PUPPETEER_EXECUTABLE_PATH: ${process.env.PUPPETEER_EXECUTABLE_PATH}`
+        `[PdfService] Using env PUPPETEER_EXECUTABLE_PATH: ${process.env.PUPPETEER_EXECUTABLE_PATH}`,
       );
       launchOptions.executablePath = process.env.PUPPETEER_EXECUTABLE_PATH;
     } else {
       logger.info(
-        "[PdfService] No PUPPETEER_EXECUTABLE_PATH set, using default"
+        "[PdfService] No PUPPETEER_EXECUTABLE_PATH set, using default",
       );
     }
 
@@ -180,16 +175,16 @@ export class PdfService {
       logger.warn(
         `[PdfService] Failed to launch browser: ${
           error instanceof Error ? error.message : error
-        }`
+        }`,
       );
       logger.warn(
-        "[PdfService] Attempting to auto-detect Chrome installation..."
+        "[PdfService] Attempting to auto-detect Chrome installation...",
       );
 
       const chromePaths = [
         path.join(
           process.cwd(),
-          "puppeteer-cache/chrome/linux-*/chrome-linux*/chrome"
+          "puppeteer-cache/chrome/linux-*/chrome-linux*/chrome",
         ),
         process.env.HOME +
           "/.cache/puppeteer/chrome/linux-*/chrome-linux*/chrome",
@@ -199,7 +194,7 @@ export class PdfService {
 
       for (const pathPattern of chromePaths) {
         logger.info(
-          `[PdfService] Searching for Chrome with pattern: ${pathPattern}`
+          `[PdfService] Searching for Chrome with pattern: ${pathPattern}`,
         );
         try {
           const { execSync } = await import("child_process");
@@ -213,23 +208,23 @@ export class PdfService {
             launchOptions.executablePath = foundPath;
             const browser = await puppeteer.launch(launchOptions);
             logger.info(
-              "[PdfService] Browser launched successfully with auto-detected path"
+              "[PdfService] Browser launched successfully with auto-detected path",
             );
             return browser;
           } else {
             logger.info(
-              `[PdfService] No Chrome found at pattern: ${pathPattern}`
+              `[PdfService] No Chrome found at pattern: ${pathPattern}`,
             );
           }
         } catch (searchError) {
           logger.warn(
-            `[PdfService] Error searching path ${pathPattern}: ${searchError}`
+            `[PdfService] Error searching path ${pathPattern}: ${searchError}`,
           );
         }
       }
 
       logger.error(
-        "[PdfService] Failed to auto-detect Chrome, throwing original error"
+        "[PdfService] Failed to auto-detect Chrome, throwing original error",
       );
       throw error;
     }
@@ -238,7 +233,7 @@ export class PdfService {
   private async navigateToUrl(
     page: Page,
     url: string,
-    pdfAuthToken?: string | null
+    pdfAuthToken?: string | null,
   ): Promise<void> {
     logger.info(`[PdfService] Navigating to: ${url}`);
 
@@ -266,7 +261,7 @@ export class PdfService {
       logger.info("[PdfService] Product cards container found");
     } catch (error) {
       logger.warn(
-        `[PdfService] Selector "${SELECTORS.productCardsContainer}" not found after ${PDF_CONFIG.IMAGE_LOAD_TIMEOUT}ms`
+        `[PdfService] Selector "${SELECTORS.productCardsContainer}" not found after ${PDF_CONFIG.IMAGE_LOAD_TIMEOUT}ms`,
       );
       logger.info("[PdfService] Continuing with PDF generation anyway...");
     }
@@ -279,8 +274,8 @@ export class PdfService {
             (img) =>
               new Promise((resolve) => {
                 img.onload = img.onerror = resolve;
-              })
-          )
+              }),
+          ),
       );
     });
 
@@ -298,7 +293,7 @@ export class PdfService {
 
     if (imageResults.brokenCount > 0) {
       logger.warn(
-        `[PdfService] Replaced ${imageResults.brokenCount} broken images`
+        `[PdfService] Replaced ${imageResults.brokenCount} broken images`,
       );
       imageResults.brokenImages.forEach((img) => logger.warn(`  - ${img}`));
     }
@@ -362,7 +357,7 @@ export class PdfService {
               brokenImages.push(`${originalSrc} (${errorMsg})`);
               replaceWithLogo(img);
             }
-          })
+          }),
         ).then(() => ({
           totalImages: allImages.length,
           brokenCount: brokenImages.length,
@@ -373,7 +368,7 @@ export class PdfService {
       {
         logoUrl: PDF_CONFIG.VMS_LOGO_URL,
         iconThreshold: PDF_CONFIG.ICON_SIZE_THRESHOLD,
-      }
+      },
     );
   }
 
@@ -385,7 +380,7 @@ export class PdfService {
           document.body.style.backgroundColor = config.bgColor;
 
           const mainContainer = document.querySelector(
-            config.selectors.pdfContent
+            config.selectors.pdfContent,
           );
           if (mainContainer) {
             (mainContainer as HTMLElement).style.backgroundColor =
@@ -436,7 +431,7 @@ export class PdfService {
         const applyPageBreaks = (
           selectors: readonly string[],
           breakBefore: "auto" | "always",
-          breakInside: "auto" | "avoid"
+          breakInside: "auto" | "avoid",
         ): void => {
           selectors.forEach((selector) => {
             const element = document.querySelector(selector) as HTMLElement;
@@ -452,7 +447,7 @@ export class PdfService {
 
         const configureOverviewCards = (): void => {
           const cards = document.querySelector(
-            config.selectors.overviewCards
+            config.selectors.overviewCards,
           ) as HTMLElement;
           if (cards) {
             Object.assign(cards.style, {
@@ -465,7 +460,7 @@ export class PdfService {
 
         const configureCompetitors = (): void => {
           const container = document.querySelector(
-            config.selectors.competitorsContainer
+            config.selectors.competitorsContainer,
           ) as HTMLElement;
           if (!container) return;
 
@@ -475,7 +470,7 @@ export class PdfService {
           });
 
           const items = document.querySelectorAll(
-            config.selectors.competitorItem
+            config.selectors.competitorItem,
           );
           items.forEach((item, index) => {
             const el = item as HTMLElement;
@@ -577,7 +572,7 @@ export class PdfService {
         bgColor: PDF_CONFIG.BACKGROUND_COLOR,
         selectors: SELECTORS,
         textElements: TEXT_ELEMENTS,
-      }
+      },
     );
   }
 
@@ -594,17 +589,6 @@ export class PdfService {
       displayHeaderFooter: false,
       preferCSSPageSize: false,
     });
-  }
-
-  private createFilename(reportId?: string, reportTitle?: string): string {
-    const now = nowUnixTimestamp();
-    if (reportTitle && reportId) {
-      return `${reportTitle.replace(
-        /[^a-z0-9]/gi,
-        "_"
-      )}-${reportId}-${now}.pdf`;
-    }
-    return `report-${reportId || "download"}.pdf`;
   }
 
   private savePdf(buffer: Uint8Array, filename: string): string {
