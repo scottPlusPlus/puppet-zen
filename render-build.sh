@@ -6,10 +6,14 @@ set -o errexit
 # Install dependencies
 npm install
 
-# Install Chrome for Puppeteer (using default cache location)
-npx puppeteer browsers install chrome
+# Ensure the Puppeteer cache directory exists
+PUPPETEER_CACHE_DIR="$(pwd)/puppeteer-cache"
+mkdir -p "$PUPPETEER_CACHE_DIR"
 
-echo "Chrome installed successfully"
+# Install Chrome for Puppeteer
+npx puppeteer browsers install chrome --path "$PUPPETEER_CACHE_DIR"
 
-# Build TypeScript
+echo "Chrome installed successfully to $PUPPETEER_CACHE_DIR"
+
+# Build Next.js
 npm run build
