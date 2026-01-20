@@ -15,7 +15,7 @@ router.post('/', async (req: Request, res: Response) => {
       return res.status(401).json({ error: 'Unauthorized' });
     }
 
-    const { url, reportId, reportTitle } = req.body;
+    const { url, filename } = req.body;
 
     if (!url) {
       return res.status(400).json({ error: 'URL is required' });
@@ -24,16 +24,13 @@ router.post('/', async (req: Request, res: Response) => {
     const pdfAuthToken = req.headers[PDF_AUTH_HEADER] as string;
 
     logger.info(`[PDF API] Request from ${user.actorName}:`, {
-      url,
-      reportId,
-      reportTitle,
+      url
     });
 
     const pdfService = new PdfService();
     const result = await pdfService.generatePdf({
       url,
-      reportId,
-      reportTitle,
+      filename,
       pdfAuthToken,
       testMode: false,
     });
