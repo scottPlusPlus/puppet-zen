@@ -143,12 +143,10 @@ export class PuppeteerService {
       logger.info("[PuppeteerService] Auth headers set");
     }
 
-    const waitUntil = options.fastMode
-      ? ["domcontentloaded"]
-      : ["domcontentloaded", "networkidle2"];
-
     await page.goto(options.url, {
-      waitUntil: waitUntil as any,
+      waitUntil: options.fastMode
+        ? ["domcontentloaded"]
+        : ["domcontentloaded", "networkidle2"],
       timeout: this.config.imageLoadTimeout,
     });
     logger.info("[PuppeteerService] Navigation complete");
@@ -221,8 +219,8 @@ export class PuppeteerService {
         return new Promise<void>((resolve) => {
           const timeout = setTimeout(() => resolve(), 2000);
 
-          if (typeof (window as any).requestIdleCallback !== "undefined") {
-            (window as any).requestIdleCallback(() => {
+          if (typeof window.requestIdleCallback !== "undefined") {
+            window.requestIdleCallback(() => {
               clearTimeout(timeout);
               resolve();
             }, { timeout: 1500 });

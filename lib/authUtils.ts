@@ -7,17 +7,12 @@ export type PuppeteerUser = {
 
 let _users: Array<PuppeteerUser> | null = null;
 
-// Type that works with both Next.js and Express requests
 type RequestWithHeaders = {
   headers: {
     authorization?: string;
   };
 };
 
-/**
- * Get puppeteer user from request Authorization header
- * Works with both Next.js and Express requests
- */
 export async function puppeteerUserFromReq(
   req: RequestWithHeaders,
 ): Promise<PuppeteerUser | null> {
@@ -28,11 +23,9 @@ export async function puppeteerUserFromReq(
     return null;
   }
 
-  // Remove "Bearer " prefix if present
   const key = authHeader.startsWith("Bearer ")
     ? authHeader.substring(7).trim()
     : authHeader.trim();
-  console.log(key, authHeader.startsWith("Bearer "), authHeader);
 
   const users = getUsers();
   const user = users.find((u) => u.key === key);
@@ -46,10 +39,6 @@ export async function puppeteerUserFromReq(
   return user || null;
 }
 
-/**
- * Load users from PUPPETEER_GEN_USER environment variable
- * Format: "key1:Name1,key2:Name2"
- */
 function getUsers(): Array<PuppeteerUser> {
   if (_users) {
     return _users;
