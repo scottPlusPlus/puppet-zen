@@ -19,7 +19,7 @@ type RequestWithHeaders = {
  * Works with both Next.js and Express requests
  */
 export async function puppeteerUserFromReq(
-  req: RequestWithHeaders
+  req: RequestWithHeaders,
 ): Promise<PuppeteerUser | null> {
   const authHeader = req.headers.authorization;
 
@@ -32,6 +32,7 @@ export async function puppeteerUserFromReq(
   const key = authHeader.startsWith("Bearer ")
     ? authHeader.substring(7).trim()
     : authHeader.trim();
+  console.log(key, authHeader.startsWith("Bearer "), authHeader);
 
   const users = getUsers();
   const user = users.find((u) => u.key === key);

@@ -25,6 +25,7 @@ app.get('/', (req: Request, res: Response) => {
     endpoints: {
       health: '/api/health',
       pdf: '/api/pdf/url-to-pdf',
+      html: '/api/html/url-to-html',
     },
   });
 });
@@ -39,6 +40,7 @@ app.use((req: Request, res: Response) => {
     availableEndpoints: {
       health: '/api/health',
       pdf: '/api/pdf/url-to-pdf',
+      html: '/api/html/url-to-html',
     },
   });
 });
