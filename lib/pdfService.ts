@@ -31,8 +31,8 @@ interface ImageCheckResult {
 
 const PDF_CONFIG = {
   WIDTH: "1440px",
-  HEIGHT: "900px",
-  VIEWPORT: { width: 1440, height: 900 },
+  HEIGHT: "1500px",
+  VIEWPORT: { width: 1440, height: 1500 },
   MARGINS: { top: "5mm", right: "10mm", bottom: "5mm", left: "10mm" },
   BACKGROUND_COLOR: "#EDEFF2",
   VMS_LOGO_URL: "https://www.validatemysaas.com/images/vms_logo.svg",
