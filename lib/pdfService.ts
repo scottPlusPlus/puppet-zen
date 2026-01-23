@@ -22,6 +22,11 @@ export interface PdfGenerationResult {
   error?: string;
 }
 
+export interface PdfServiceOptions {
+  width?: number;
+  height?: number;
+}
+
 interface ImageCheckResult {
   totalImages: number;
   brokenCount: number;
@@ -30,9 +35,6 @@ interface ImageCheckResult {
 }
 
 const PDF_CONFIG = {
-  WIDTH: "1440px",
-  HEIGHT: "1500px",
-  VIEWPORT: { width: 1440, height: 1500 },
   MARGINS: { top: "5mm", right: "10mm", bottom: "5mm", left: "10mm" },
   BACKGROUND_COLOR: "#EDEFF2",
   VMS_LOGO_URL: "https://www.validatemysaas.com/images/vms_logo.svg",
@@ -82,12 +84,22 @@ function nowUnixTimestamp(): number {
 export class PdfService {
   private readonly pdfsDir: string;
   private puppeteerService: PuppeteerService;
+  private readonly pdfWidth: string;
+  private readonly pdfHeight: string;
+  private readonly viewport: { width: number; height: number };
 
-  constructor() {
+  constructor(options: PdfServiceOptions = {}) {
+    const width = options.width ?? 1440;
+    const height = options.height ?? 1500;
+
+    this.pdfWidth = `${width}px`;
+    this.pdfHeight = `${height}px`;
+    this.viewport = { width, height };
+
     this.pdfsDir = path.join(process.cwd(), "generated-pdfs");
     this.puppeteerService = new PuppeteerService({
-      viewport: PDF_CONFIG.VIEWPORT,
-      windowSize: `${PDF_CONFIG.VIEWPORT.width},${PDF_CONFIG.VIEWPORT.height}`,
+      viewport: this.viewport,
+      windowSize: `${width},${height}`,
       imageLoadTimeout: PDF_CONFIG.IMAGE_LOAD_TIMEOUT,
       networkIdleTimeout: PDF_CONFIG.NETWORK_IDLE_TIMEOUT,
     });
@@ -451,8 +463,8 @@ export class PdfService {
     });
 
     return page.pdf({
-      width: PDF_CONFIG.WIDTH,
-      height: PDF_CONFIG.HEIGHT,
+      width: this.pdfWidth,
+      height: this.pdfHeight,
       printBackground: true,
       margin: PDF_CONFIG.MARGINS,
       displayHeaderFooter: false,
