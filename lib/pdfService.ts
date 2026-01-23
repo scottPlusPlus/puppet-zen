@@ -1,7 +1,8 @@
-import puppeteer, { Browser, Page } from "puppeteer";
+import { Browser, Page } from "puppeteer";
 import fs from "fs";
 import path from "path";
 import { logger } from "./logger/logger";
+import { PuppeteerService } from "./puppeteerService";
 
 export const PDF_AUTH_HEADER = "x-pdf-access-token";
 
@@ -21,6 +22,11 @@ export interface PdfGenerationResult {
   error?: string;
 }
 
+export interface PdfServiceOptions {
+  width?: number;
+  height?: number;
+}
+
 interface ImageCheckResult {
   totalImages: number;
   brokenCount: number;
@@ -29,9 +35,6 @@ interface ImageCheckResult {
 }
 
 const PDF_CONFIG = {
-  WIDTH: "1920px",
-  HEIGHT: "1500px",
-  VIEWPORT: { width: 1920, height: 1450 },
   MARGINS: { top: "5mm", right: "10mm", bottom: "5mm", left: "10mm" },
   BACKGROUND_COLOR: "#EDEFF2",
   VMS_LOGO_URL: "https://www.validatemysaas.com/images/vms_logo.svg",
@@ -41,17 +44,6 @@ const PDF_CONFIG = {
   REPLACEMENT_IMAGE_WAIT: 3000,
 } as const;
 
-const BROWSER_ARGS = [
-  "--no-sandbox",
-  "--disable-setuid-sandbox",
-  "--disable-dev-shm-usage",
-  "--disable-accelerated-2d-canvas",
-  "--no-first-run",
-  "--no-zygote",
-  "--disable-extensions",
-  "--disable-software-rasterizer",
-  "--window-size=1920,1450",
-] as const;
 
 const TEXT_ELEMENTS: (keyof HTMLElementTagNameMap)[] = [
   "p",
@@ -91,9 +83,26 @@ function nowUnixTimestamp(): number {
 
 export class PdfService {
   private readonly pdfsDir: string;
+  private puppeteerService: PuppeteerService;
+  private readonly pdfWidth: string;
+  private readonly pdfHeight: string;
+  private readonly viewport: { width: number; height: number };
 
-  constructor() {
+  constructor(options: PdfServiceOptions = {}) {
+    const width = options.width ?? 1440;
+    const height = options.height ?? 1500;
+
+    this.pdfWidth = `${width}px`;
+    this.pdfHeight = `${height}px`;
+    this.viewport = { width, height };
+
     this.pdfsDir = path.join(process.cwd(), "generated-pdfs");
+    this.puppeteerService = new PuppeteerService({
+      viewport: this.viewport,
+      windowSize: `${width},${height}`,
+      imageLoadTimeout: PDF_CONFIG.IMAGE_LOAD_TIMEOUT,
+      networkIdleTimeout: PDF_CONFIG.NETWORK_IDLE_TIMEOUT,
+    });
     this.ensureDirectoryExists();
   }
 
@@ -106,15 +115,28 @@ export class PdfService {
     try {
       logger.info(`[PdfService] Generating PDF from ${options.url}`);
 
-      browser = await this.launchBrowser(options.testMode);
+      browser = await this.puppeteerService.launchBrowser(options.testMode);
       const page = await browser.newPage();
 
-      await this.navigateToUrl(page, options.url, options.pdfAuthToken);
-      await this.waitForContent(page);
+      const authHeaders = options.pdfAuthToken
+        ? { [PDF_AUTH_HEADER]: options.pdfAuthToken }
+        : undefined;
+
+      await this.puppeteerService.navigateToUrl(page, {
+        url: options.url,
+        authHeaders,
+        waitForSelector: SELECTORS.productCardsContainer,
+      });
+
+      await this.puppeteerService.waitForContent(
+        page,
+        SELECTORS.productCardsContainer,
+      );
+
       await this.preparePdfContent(page);
 
       if (options.testMode) {
-        await this.delay(10000);
+        await this.puppeteerService.delay(10000);
       }
 
       const pdfBuffer = await this.generatePdfBuffer(page);
@@ -146,147 +168,6 @@ export class PdfService {
     }
   }
 
-  private async launchBrowser(testMode = false): Promise<Browser> {
-    logger.info(`[PdfService] Launching browser (headless: ${!testMode})`);
-
-    const launchOptions: Parameters<typeof puppeteer.launch>[0] = {
-      headless: !testMode,
-      args: [...BROWSER_ARGS],
-      timeout: 80000,
-      protocolTimeout: 300000,
-    };
-
-    if (process.env.PUPPETEER_EXECUTABLE_PATH) {
-      logger.info(
-        `[PdfService] Using env PUPPETEER_EXECUTABLE_PATH: ${process.env.PUPPETEER_EXECUTABLE_PATH}`,
-      );
-      launchOptions.executablePath = process.env.PUPPETEER_EXECUTABLE_PATH;
-    } else {
-      logger.info(
-        "[PdfService] No PUPPETEER_EXECUTABLE_PATH set, using default",
-      );
-    }
-
-    try {
-      const browser = await puppeteer.launch(launchOptions);
-      logger.info("[PdfService] Browser launched successfully");
-      return browser;
-    } catch (error) {
-      logger.warn(
-        `[PdfService] Failed to launch browser: ${
-          error instanceof Error ? error.message : error
-        }`,
-      );
-      logger.warn(
-        "[PdfService] Attempting to auto-detect Chrome installation...",
-      );
-
-      const chromePaths = [
-        path.join(
-          process.cwd(),
-          "puppeteer-cache/chrome/linux-*/chrome-linux*/chrome",
-        ),
-        process.env.HOME +
-          "/.cache/puppeteer/chrome/linux-*/chrome-linux*/chrome",
-        process.env.HOME +
-          "/.cache/puppeteer/chrome/mac*/chrome-mac*/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
-      ];
-
-      for (const pathPattern of chromePaths) {
-        logger.info(
-          `[PdfService] Searching for Chrome with pattern: ${pathPattern}`,
-        );
-        try {
-          const { execSync } = await import("child_process");
-          const foundPath = execSync(`ls ${pathPattern} 2>/dev/null || echo ""`)
-            .toString()
-            .trim()
-            .split("\n")[0];
-
-          if (foundPath) {
-            logger.info(`[PdfService] Found Chrome at: ${foundPath}`);
-            launchOptions.executablePath = foundPath;
-            const browser = await puppeteer.launch(launchOptions);
-            logger.info(
-              "[PdfService] Browser launched successfully with auto-detected path",
-            );
-            return browser;
-          } else {
-            logger.info(
-              `[PdfService] No Chrome found at pattern: ${pathPattern}`,
-            );
-          }
-        } catch (searchError) {
-          logger.warn(
-            `[PdfService] Error searching path ${pathPattern}: ${searchError}`,
-          );
-        }
-      }
-
-      logger.error(
-        "[PdfService] Failed to auto-detect Chrome, throwing original error",
-      );
-      throw error;
-    }
-  }
-
-  private async navigateToUrl(
-    page: Page,
-    url: string,
-    pdfAuthToken?: string | null,
-  ): Promise<void> {
-    logger.info(`[PdfService] Navigating to: ${url}`);
-
-    if (pdfAuthToken) {
-      await page.setExtraHTTPHeaders({
-        [PDF_AUTH_HEADER]: pdfAuthToken,
-      });
-      logger.info("[PdfService] PDF auth header set");
-    }
-
-    await page.goto(url, {
-      waitUntil: ["domcontentloaded", "networkidle2"],
-      timeout: PDF_CONFIG.IMAGE_LOAD_TIMEOUT,
-    });
-    logger.info("[PdfService] Navigation complete");
-  }
-
-  private async waitForContent(page: Page): Promise<void> {
-    logger.info("[PdfService] Waiting for page content...");
-
-    try {
-      await page.waitForSelector(SELECTORS.productCardsContainer, {
-        timeout: PDF_CONFIG.IMAGE_LOAD_TIMEOUT,
-      });
-      logger.info("[PdfService] Product cards container found");
-    } catch (error) {
-      logger.warn(
-        `[PdfService] Selector "${SELECTORS.productCardsContainer}" not found after ${PDF_CONFIG.IMAGE_LOAD_TIMEOUT}ms`,
-      );
-      logger.info("[PdfService] Continuing with PDF generation anyway...");
-    }
-
-    await page.evaluate(() => {
-      return Promise.all(
-        Array.from(document.images)
-          .filter((img) => !img.complete)
-          .map(
-            (img) =>
-              new Promise((resolve) => {
-                img.onload = img.onerror = resolve;
-              }),
-          ),
-      );
-    });
-
-    await page
-      .waitForNetworkIdle({ timeout: PDF_CONFIG.NETWORK_IDLE_TIMEOUT })
-      .catch(() => {
-        logger.info("[PdfService] Network idle timeout, continuing...");
-      });
-    await this.delay(2000);
-    logger.info("[PdfService] Content wait complete");
-  }
 
   private async preparePdfContent(page: Page): Promise<void> {
     const imageResults = await this.replacebrokenImages(page);
@@ -299,7 +180,7 @@ export class PdfService {
     }
 
     await this.applyPdfStyles(page);
-    await this.delay(PDF_CONFIG.REPLACEMENT_IMAGE_WAIT);
+    await this.puppeteerService.delay(PDF_CONFIG.REPLACEMENT_IMAGE_WAIT);
   }
 
   private async replacebrokenImages(page: Page): Promise<ImageCheckResult> {
@@ -582,8 +463,8 @@ export class PdfService {
     });
 
     return page.pdf({
-      width: PDF_CONFIG.WIDTH,
-      height: PDF_CONFIG.HEIGHT,
+      width: this.pdfWidth,
+      height: this.pdfHeight,
       printBackground: true,
       margin: PDF_CONFIG.MARGINS,
       displayHeaderFooter: false,
@@ -628,7 +509,4 @@ export class PdfService {
     }
   }
 
-  private delay(ms: number): Promise<void> {
-    return new Promise((resolve) => setTimeout(resolve, ms));
-  }
 }

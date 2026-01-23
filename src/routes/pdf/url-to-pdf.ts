@@ -15,7 +15,7 @@ router.post('/', async (req: Request, res: Response) => {
       return res.status(401).json({ error: 'Unauthorized' });
     }
 
-    const { url, filename } = req.body;
+    const { url, filename, width=1440, height=1500 } = req.body;
 
     if (!url) {
       return res.status(400).json({ error: 'URL is required' });
@@ -27,7 +27,7 @@ router.post('/', async (req: Request, res: Response) => {
       url
     });
 
-    const pdfService = new PdfService();
+    const pdfService = new PdfService({width, height});
     const result = await pdfService.generatePdf({
       url,
       filename,
