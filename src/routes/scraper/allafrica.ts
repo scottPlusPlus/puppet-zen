@@ -46,7 +46,7 @@ router.post("/", async (req: Request, res: Response) => {
       authConfig: ALLAFRICA_AUTH_CONFIG,
       waitForSelector,
       waitTime,
-      testMode: true,
+      testMode: false,
       args,
     });
 
