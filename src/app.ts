@@ -26,6 +26,7 @@ app.get('/', (req: Request, res: Response) => {
       health: '/api/health',
       pdf: '/api/pdf/url-to-pdf',
       html: '/api/html/url-to-html',
+      allafrica: '/api/scraper/allafrica',
     },
   });
 });
@@ -41,6 +42,7 @@ app.use((req: Request, res: Response) => {
       health: '/api/health',
       pdf: '/api/pdf/url-to-pdf',
       html: '/api/html/url-to-html',
+      allafrica: '/api/scraper/allafrica',
     },
   });
 });
