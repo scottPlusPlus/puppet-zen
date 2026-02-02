@@ -14,7 +14,7 @@ router.post('/', async (req: Request, res: Response) => {
       return res.status(401).json({ error: 'Unauthorized' });
     }
 
-    const { url, waitForSelector, waitTime } = req?.body;
+    const { url, waitForSelector, waitTime, args } = req?.body;
 
     if (!url) {
       return res.status(400).json({ error: 'URL is required' });
@@ -24,6 +24,7 @@ router.post('/', async (req: Request, res: Response) => {
       url,
       waitForSelector,
       waitTime,
+      args,
     });
 
     const htmlService = new HtmlService();
@@ -32,14 +33,26 @@ router.post('/', async (req: Request, res: Response) => {
       waitForSelector,
       waitTime,
       testMode: false,
+      args,
     });
 
     if (result.success) {
       logger.info(`[HTML API] Success:`, {
         size: result.html?.length,
         duration: result.duration,
+        hasMetadata: !!result.metadata,
+        hasMarkdown: !!result.metadata?.bodyMarkdown,
       });
 
+      // If args are provided or metadata is requested, return JSON with metadata
+      if (args || result.metadata) {
+        return res.status(200).json({
+          ...result.metadata,
+          duration: result.duration,
+        });
+      }
+
+      // Otherwise, return raw HTML (legacy behavior)
       res.setHeader('Content-Type', 'text/html; charset=utf-8');
       res.setHeader('Content-Length', result.html?.length || 0);
 
