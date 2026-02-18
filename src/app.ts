@@ -27,6 +27,7 @@ app.get('/', (req: Request, res: Response) => {
       pdf: '/api/pdf/url-to-pdf',
       html: '/api/html/url-to-html',
       allafrica: '/api/scraper/allafrica',
+      resnexus: '/api/scraper/resnexus',
     },
   });
 });

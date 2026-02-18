@@ -1,0 +1,4820 @@
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <!-- Facebook Tags -->
+    <meta property="og:title" content="The Benchmark Inn | Augusta, Kentucky | Check Availability or Make a Reservation | ResNexus" />
+    <meta property="og:description" content="Make a reservation at The Benchmark Inn today!
+Stay at the best Lodging in Augusta. Book direct for the best rates!" />
+    <meta property="og:image" content="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/10/dae6d8bd-53c4-403b-a888-7aeaa6daef48.jpg" />
+    <meta property="og:image:secure_url" content="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/10/dae6d8bd-53c4-403b-a888-7aeaa6daef48.jpg" />
+
+        <meta name="description" content="Make a reservation at The Benchmark Inn today!
+Stay at the best Lodging in Augusta. Book direct for the best rates!" />
+
+    <title>The Benchmark Inn | Augusta, Kentucky | Check Availability or Make a Reservation | ResNexus</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js"
+            integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"></script>
+
+
+    
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+    <script src="/resnexus/Reservations/Resource/JsResources?version=20260217T132302&lang=en-us"></script>
+
+    <link href="/resnexus/Reservations/bundles/book/css/bookgen6?v=HhZxFGo4MEMQQ5daDXgsfQr52kZVXxCx2IOpj-UO5HA1" rel="stylesheet"/>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" integrity="sha512-4uGZHpbDliNxiAv/QzZNo/yb2FtAX+qiDb7ypBWiEdJQX8Pugp8M6il5SRkN8jQrDLWsh3rrPDSXRf3DwFYM6g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="/resnexus/Reservations/bundles/styles/bookgen6mobile?v=CcRtt2o08jd7JJmQCRzWDd73JT_S_w5mYZcIyeUU0u81" rel="stylesheet"/>
+
+
+    <link href='/resnexus/Reservations/css/book/tablet.min.css?v=12292025220328' rel='stylesheet' media="screen and (min-width: 850px) and (max-width: 1259px)"></link>
+
+    <link href='/resnexus/Reservations/css/book/desktop.min.css?v=12292025220328' rel='stylesheet' media="screen and (min-width: 1260px)"></link>
+
+    <script src="/resnexus/Reservations/bundles/book/js/shared?v=6Xs8En1kcy0T9Oref3BjJAm-ZmTIKoRk_JcBV5O8Alk1"></script>
+
+
+
+
+    <link rel="preconnect" href="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/14/f0610ce2-65ec-45b6-a611-c39a60ca0620.css" />
+    <link rel="stylesheet" href="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/14/f0610ce2-65ec-45b6-a611-c39a60ca0620.css" media="print" onload="this.media='all'" />
+
+    <link rel="icon" href="https://d2u84euz3lkopn.cloudfront.net/955f7661-e302-422c-893d-4aa99c6fa5e1.png" />
+
+    <link rel="stylesheet" href="https://d8qysm09iyvaz.cloudfront.net/resources/scripts/jquery.fancybox.min.css" media="print" onload="this.media='all'" />
+    <script src="https://d8qysm09iyvaz.cloudfront.net/resources/scripts/jquery.fancybox.min.js" defer></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.3/jquery-ui.min.js" integrity="sha512-Ww1y9OuQ2kehgVWSD/3nhgfrb424O3802QYP/A5gPXoM4+rRjiKrjHdGxQKrMGQykmsJ/86oGdHszfcVgUr4hA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" type="text/css" href="/resnexus/reservations/content/css/jquery.datepicker.css">
+
+    <script type="text/javascript">
+        window.HideOccupancy = false;
+    </script>
+
+    
+    <script type="application/ld+json">{"@context": "http://schema.org","@type": "Hotel","name": "The Benchmark Inn","identifier": "31CA0F44-3824-414D-8838-ABF93CF5A3D6","address": {"@type": "PostalAddress","streetAddress": "103 West Second Street","addressLocality": "Augusta","addressRegion": "Kentucky","postalCode": "41002","addressCountry": "US"},"telephone": "859-904-9046","image": "https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/2/a524ea6d-dbf7-40fd-a9fd-48c02280efc0.png","url": "thebenchmarkinn.com"}</script>
+
+    
+    <script data-code="CNHyoNY9xS" data-position="3" data-color="#053E67" data-size="large" data-type="1">var _userway_config = null;(function (currentScript) {let code = currentScript.getAttribute("data-code");let position = currentScript.getAttribute("data-position");let color = currentScript.getAttribute("data-color");let size = currentScript.getAttribute("data-size");let iconType = currentScript.getAttribute("data-type");_userway_config = {account: code, position: position,color: color,size: size,type: iconType};})(document.currentScript);</script><script src="https://cdn.userway.org/widget.js" defer></script>
+
+    
+    
+
+
+<!-- Google Analytics 4 --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-PW5NJFJMLR"></script><script data-domains="[&quot;resnexus.com&quot;, &quot;thebenchmarkinn.com&quot;]" data-script-ids="[&quot;G-PW5NJFJMLR&quot;, &quot;G-PW5NJFJMLR&quot;, &quot;AW-17677479432&quot;]">
+window.dataLayer = window.dataLayer || [];
+function gtag() {dataLayer.push(arguments);}
+gtag('js', new Date());
+(function (currentScript) {let domains = JSON.parse(currentScript.getAttribute("data-domains"));let scriptids = JSON.parse(currentScript.getAttribute("data-script-ids"));scriptids.forEach(function(scriptid) {gtag('config', scriptid, { 'linker': {'domains': domains }, 'allow_enhanced_conversions': true, 'consent': 'default'});
+});})(document.currentScript);</script> <!-- End Google Analytics 4 -->
+
+
+<!-- Global site tag (gtag.js) - Google Ads: AW-17677479432 --><script async src="https://www.googletagmanager.com/gtag/js?id=AW-17677479432"></script><script data-config-id="AW-17677479432">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());(function (currentScript) {let configID = currentScript.getAttribute("data-config-id");gtag('config', configID);})(document.currentScript);</script>
+
+
+    
+<script src="/resnexus/Reservations/quantcast/script?v=SNYZiZ3TBP9nqoriI2BAAjZ-De_2NFTdTOaMY_6tbLE1"></script>
+
+
+    
+        <link rel="stylesheet" type="text/css" href="/resnexus/styles/manage/bookingEngineHeaderReset.css" />
+        <link rel="stylesheet" type="text/css" href="/resnexus/styles/manage/Gen6BookingEngineRNWHeader.css?v=20211203" />
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,300,400,700,900" rel="stylesheet" media="print" onload="this.media='all'" />
+        <script src="/resnexus/scripts/bookingEngineHeader.js" defer></script>
+
+<script>
+(function(h,o,u,n,d) {
+  h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+  d=o.createElement(u);d.async=1;d.src=n
+  n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+})(window,document,'script','https://www.datadoghq-browser-agent.com/us1/v6/datadog-rum.js','DD_RUM')
+window.DD_RUM.onReady(function() {
+  window.DD_RUM.init({"applicationId":"afefc537-55b7-40c1-a46f-975b57609f62","clientToken":"pub8099914a91143caa6cd5dc4df5fa5627","site":"datadoghq.com","remoteConfigurationId":"73568aa3-ed2e-45ba-9e50-50853b6da255"});
+});
+</script>
+</head>
+<body class="">
+    
+
+    
+
+<script src='/resnexus/Reservations/js/book/search.min.js?v=12292025220328' defer="defer"></script>
+
+<div class="mainSearchPage">
+    
+
+
+    <div class="rn-website-header">
+        <style>.tablet .header10 .navbar .extrabutton {
+    display: none;
+    position: relative;
+    margin: 0 auto;
+    right: 0;
+    max-width: 210px;
+    min-width: 150px;
+    margin-bottom: 10px;
+}
+.tablet .header10 .navbar .extrabutton a {
+    font-weight: 600;
+    color:#ffffff;
+}
+.headerSmall .header10 .navbar .extrabutton {
+    display: none;
+    position: relative;
+    right: 0;
+    min-width: 150px;
+    margin: 0 auto;
+    max-width: 250px;
+    margin-bottom: 10px;
+}
+.headerSmall .header10 .navbar .extrabutton a {
+    font-weight: 600;
+    color:#ffffff;
+}
+.header10 .navbar .extrabutton a {
+    color: #ffffff;
+}
+.header10 .inner .extrabutton {
+    display: none;
+    vertical-align: middle;
+    position: absolute;
+    border-radius: 3px;
+    background-color: #282828;
+    width: auto;
+    right: 230px;
+    text-align: center;
+    text-transform: uppercase;
+    top: 40%;
+    padding: 0;
+    min-width: 180px;
+}
+.tablet .header10 .navbar .extralink a {
+    padding: 10px 0;
+    color: #AD4736;
+    font-weight: 600;
+    line-height: 25px;
+}
+.tablet .header10 .extralink {
+    display: none;
+}
+.headerSmall .header10 .navbar .extralink a {
+    font-weight: 600;
+    color: #AD4736;
+}
+.headerSmall .header10 .extralink {
+    position: inherit;
+    display: none;
+}
+.header10 .navbar .extralink a {
+    padding: 0;
+    color: #AD4736;
+}
+.header10 .extralink {
+    display: none;
+    font-weight: 600;
+    text-align: right;
+    position: absolute;
+    top: 140px;
+    right: 0;
+    color: #AD4736;
+}
+/*Tablet*/
+.headerMedium .header10 .infobar .socialbar {
+    display: inherit;
+    margin: 0 auto;
+}
+.headerMedium .header10 .infobar .callus {
+    text-align: center!important;
+    padding-bottom: 0px!important;
+    float: inherit;
+}
+.tablet .header10 .navbar .checkavail {
+    display: none;
+    position: relative;
+    margin: 0 auto;
+    max-width: 210px;
+}
+.tablet .header10 .navbar .checkavail a {
+     color: #FFFFFF;
+     font-weight: 600;
+}
+.headerMedium .header10 .infobar .socialbar {
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    display: block;
+}
+.headerMedium .header10 .logo img {
+    max-width: 100%;
+}
+.headerMedium .header10 .infobar {
+    text-align: center;
+    background-color:  #ffffff;
+}
+.headerMedium .header10 .infobar .inner {
+    display: block;
+}
+.headerMedium .header10 .navbar li {
+    border-bottom: 0 solid #fff;
+    padding: 0;
+    margin: 0;
+    background-color: #e0e0e0;
+    text-align: left;
+    font-size: 17px;
+}
+.headerMedium .header10 .navbar li:hover {
+    border-bottom: 0px solid #fff;
+    background-color: [[Mobile Dropdown Menu Background Hover Color]];
+    box-sizing: border-box;
+}
+.headerMedium .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    padding: 0;
+}
+.headerMedium .header10 .navbar .menu .booking-label {
+    display: inline-block;
+    width: 16em;
+    height: 3em;
+    text-align: center;
+    background-color: [[Property color]];
+    color: #FFFFFF;
+    margin: 25px auto;
+    padding: 3px;
+    border-radius: 1.5em;
+    text-transform: uppercase;
+}
+.headerMedium .header10 .navbar .menu > ul {
+    display: flex;
+    flex-direction: column; 
+    white-space: nowrap;
+}
+.headerMedium .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: #e0e0e0;
+}
+.headerMedium .header10 .navbar a {
+    color: #747474;
+    font-weight: normal;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    text-align: left;
+}
+.headerMedium .header10 .navbar .menu a {
+    padding: 20px 15px;
+    text-align: left;
+}
+.headerMedium .header10 .navbar .menu a:hover {
+	background-color: #d4d4d4;
+}
+.headerMedium .header10 .navbar .menu {
+    border-top: none;
+}
+.headerMedium .header10 .navbar .menuLogoAbove {
+    display: block;
+    padding-top: 25px;
+    border-top: 3px solid [[Property color]];
+}
+.headerMedium .header10 .navbar .mobilemenu .icon {
+    padding: 5px 10px;
+    height: 90px;
+    line-height: 2em;
+    border-radius: 2px;
+    width: 100%;
+    display: inline-table;
+    box-sizing: border-box;
+}
+.headerMedium .header10 .navbar .logo {
+    display:block;
+    text-align:center;
+    width: 250px;
+    margin: 0 auto;
+}
+.headerMedium .header10 .navbar li {
+    border-bottom: 0 solid #fff;
+    padding: 0;
+    margin: 0;
+    background-color: #e0e0e0;
+    text-align: left;
+}
+.headerMedium .header10 .navbar li:hover {
+    border-bottom: 0px solid #fff;
+    background-color: [[Mobile Dropdown Menu Background Hover Color]];
+    box-sizing: border-box;
+}
+.headerMedium .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    padding: 0;
+}
+.headerMedium .header10 .navbar .menu .booking-label {
+    display: inline-block;
+    width: 16em;
+    height: 3em;
+    text-align: center;
+    background-color: [[Property color]];
+    color: #FFFFFF;
+    margin: 25px auto;
+    padding: 3px;
+    border-radius: 1.5em;
+    text-transform: uppercase;
+}
+.headerMedium .header10 .navbar .menu > ul {
+    display: flex;
+    flex-direction: column; 
+    white-space: nowrap;
+}
+.headerMedium .header2 .navbar a {
+    height: 60px;
+    line-height: 60px;
+    text-align: left;
+    font-weight: 300;
+    font-size: 17px;
+    color: [[Mobile Dropdown Text Color]];
+    display: block!important;
+}
+ .headerMedium .header10 .navbar2 {
+    padding-left: 0;
+    padding-bottom: 0;
+    padding: 0;
+    border-bottom: 0px solid [[Mobile Menu Border Color]];
+    background-color: [[Mobile Menu Background Color]];
+    width: 100%;
+}
+ .headerMedium .header10 .mobilemenu {
+    display: block;
+    margin-top:0px;
+    padding-top: 0px;
+    background: #e0e0e0;
+}
+.headerMedium .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: [[Mobile Menu Background Color]];
+}
+.headerMedium .header10 ul li {
+    display:block;
+    text-align:center;
+}
+.headerMedium .header10 .logo, .headerMedium .header10 .menu {
+    display:block;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 110px;
+}
+.headerMedium .header10 .logo {
+    padding: 20px 0px;
+}
+.headerMedium .header10 .mobilemenu {
+    box-sizing: border-box;
+    margin-top: 0px;
+}
+.headerMedium .header10 .navbar .menu {
+    border-top: none;
+}
+.headerMedium .header10 .navbar .menuLogoAbove {
+    display: block;
+    padding-top: 25px;
+    border-top: 3px solid [[Property color]];
+}
+.headerMedium .header10 .navbar .mobilemenu .icon {
+    padding: 5px 10px;
+    height: 90px;
+    line-height: 2em;
+    border-radius: 2px;
+    width: 100%;
+    display: inline-table;
+    box-sizing: border-box;
+}
+.headerMedium .header10 .navbar2 a {
+    height: 70px;
+    line-height: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: #747474;
+    display: block!important;
+}
+.headerMedium .header2 .navbar2 .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: #e0e0e0;
+}
+.headerMedium .header10 .navbar2 .mobilemenu .icon .bar {
+    background-color:  #333333;
+    height: 4px;
+    width: 28px;
+}
+.headerMedium .header10 .navbar2 .menu>ul {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    border-top: 0px solid #151515;
+}
+.headerMedium .header10 .navbar2 .mobilemenu .icon .menuTitle {
+    margin-left: 10px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 25px;
+}
+.headerMedium .header10 .mobilemenu {
+    box-sizing: border-box;
+    margin-top: 0;
+}
+.headerMedium .header10 .navbar .mobilemenu .icon {
+    padding: 0px  0px;
+    height: 70px;
+    line-height: 2em;
+    width: 100%;
+    border-radius: 3px;
+    width: 160px;
+    display: inline-table;
+    box-sizing: border-box;
+}
+/*MobileMenu */
+.headerSmall .header10 .infobar .socialbar {
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    display: contents;
+}
+.headerSmall .header10 .logo img {
+    max-width: 100%;
+}
+.header10 .fa {
+     bottom: 0;
+    right: 19px;
+    height: 16px;
+    padding: 25px;
+    margin: auto;
+    top: 22px;
+    position: absolute;
+    margin-left: 240px;
+}
+.mobile .header10 .menu ul li .fa-caret-right {
+    right: 0;
+    top: 0;
+    margin: 0;
+    margin-left: 0;
+    padding: 20px;
+}
+.mobile .header10 .menu ul li .fa-caret-down {
+    top: 0;
+    right: 0;
+    margin-right: 0;
+}
+.mobile .header10 .infobar .callus {
+    text-align: right!important;
+    padding-bottom: 10px!important;
+    display: inline-block;
+    width: 100%!important;
+    float: inherit!important;
+    padding-bottom: 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+.headerSmall .header10 .infobar {
+    text-align: center;
+    background-color:  #ffffff;
+}
+.headerSmall .header10 .navbar .checkavail {
+     display: none;
+     position: relative;
+     margin: 0 auto;
+     width: 250px;
+}
+.headerSmall .header10 .navbar .checkavail a {
+     color: #FFFFFF;
+     font-weight: 600;
+}
+.headerSmall .header10 .infobar .inner {
+    display: block;
+}
+.headerSmall .header10 .navbar li {
+    border-bottom: 0 solid #fff;
+    padding: 0;
+    margin: 0;
+    background-color: #e0e0e0;
+    text-align: left;
+}
+.headerSmall .header10 .navbar li:hover {
+    border-bottom: 0px solid #fff;
+    background-color: [[Mobile Dropdown Menu Background Hover Color]];
+    box-sizing: border-box;
+}
+.tablet .header10 .infobar .callus, .header10 .infobar .location {
+    width: 34%;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    padding: 0;
+}
+.headerSmall .header10 .navbar .menu .booking-label {
+    display: inline-block;
+    width: 16em;
+    height: 3em;
+    text-align: center;
+    background-color: [[Property color]];
+    color: #FFFFFF;
+    margin: 25px auto;
+    padding: 3px;
+    border-radius: 1.5em;
+    text-transform: uppercase;
+}
+.headerSmall .header10 .navbar .menu > ul {
+    display: flex;
+    flex-direction: column; 
+    white-space: nowrap;
+}
+.header10 .infobar .callus {
+    text-align: right!important;
+    padding-bottom: 10px!important;
+    display: inline-block!important;
+    width: 210px!important;
+    float: right;
+    padding-bottom: 70px!important;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: #e0e0e0;
+}
+.headerSmall .header10 .navbar a {
+    color: #747474;
+    font-weight: normal;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    text-align: left;
+}
+.headerSmall .header10 .navbar .menu a  {
+    padding: 20px 15px;
+    text-align: left;
+}
+.headerSmall .header10 .navbar .menu a:hover {
+    background-color: #d4d4d4;
+}
+.headerSmall .header10 .navbar .menu {
+    border-top: none;
+}
+.headerSmall .header10 .navbar .menuLogoAbove {
+    display: block;
+    padding-top: 25px;
+    border-top: 3px solid [[Property color]];
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 5px 10px;
+    height: 90px;
+    line-height: 2em;
+    border-radius: 2px;
+    width: 100%;
+    display: inline-table;
+    box-sizing: border-box;
+}
+ .headerSmall .header10 .navbar .logo {
+    display:block;
+    text-align:center;
+    width: auto;
+
+}
+.headerSubmenuHeading > div {
+    position: relative;
+}
+ .headerSmall .header10 .navbar li {
+    border-bottom: 0 solid #fff;
+    padding: 0;
+    margin: 0;
+    background-color: #e0e0e0;
+    text-align: left;
+}
+.header2 .fa {
+    color: [[Mobile Dropdown Text Color]];
+}
+.headerSmall .header10 .navbar li:hover {
+    border-bottom: 0px solid #fff;
+    background-color: [[Mobile Dropdown Menu Background Hover Color]];
+    box-sizing: border-box;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    padding: 0;
+}
+.headerSmall .header10 .navbar .menu .booking-label {
+    display: inline-block;
+    width: 16em;
+    height: 3em;
+    text-align: center;
+    background-color: [[Property color]];
+    color: #FFFFFF;
+    margin: 25px auto;
+    padding: 3px;
+    border-radius: 1.5em;
+    text-transform: uppercase;
+}
+.headerSmall .header10 .navbar .menu > ul {
+    display: flex;
+    flex-direction: column; 
+    white-space: nowrap;
+}
+ .headerSmall .header2 .navbar a {
+    height: 60px;
+    line-height: 60px;
+    text-align: left;
+    font-weight: 300;
+    font-size: 17px;
+    color: [[Mobile Dropdown Text Color]];
+    display: block!important;
+}
+ .headerSmall .header10 .navbar2 {
+    padding-left: 0;
+    padding-bottom: 0;
+    padding: 0;
+    border-bottom: 0px solid [[Mobile Menu Border Color]];
+    background-color: [[Mobile Menu Background Color]];
+    width: 100%;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: [[Mobile Menu Background Color]];
+}
+.headerSmall .header10 ul li {
+    display:block;
+    text-align:center;
+}
+.headerSmall .header10 .logo, .headerSmall .header10 .menu {
+    display:block;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 110px;
+}
+.headerSmall .header10 .logo {
+    padding: 20px 0px;
+}
+.headerSmall .header10 .navbar .menu {
+    border-top: none;
+}
+.headerSmall .header10 .navbar .menuLogoAbove {
+    display: block;
+    padding-top: 25px;
+    border-top: 3px solid [[Property color]];
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 5px 10px;
+    height: 90px;
+    line-height: 2em;
+    border-radius: 2px;
+    width: 100%;
+    display: inline-table;
+    box-sizing: border-box;
+}
+ .headerSmall .header10 .navbar2 a {
+    height: 70px;
+    line-height: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: #747474;
+    display: block!important;
+}
+ .headerSmall .header2 .navbar2 .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: #e0e0e0;
+}
+.headerSmall .header10 .navbar2 .mobilemenu .icon .bar {
+    background-color:  #333333;
+    height: 4px;
+    width: 28px;
+}
+.headerSmall .header10 .navbar2 .menu>ul {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    border-top: 0px solid #151515;
+}
+ .headerSmall .header10 .navbar2 .mobilemenu .icon .menuTitle {
+    margin-left: 10px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 25px;
+}
+.header10 .mobilemenu {
+    display: none;
+    margin-top:10px;
+    line-height:0;
+}
+.headerLarge .header10 .navbar .mobilemenu .icon .headerMenuBars {
+    vertical-align: middle;
+    display: inline-block;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 0 0;
+    height: 70px;
+    line-height: 2em;
+    width: 100%;
+    border-radius: 3px;
+    width: 160px;
+    display: inline-table;
+    box-sizing: border-box;
+}
+/*End Mobile*/
+.header10 .socialbar {
+    width: 28%;
+}
+.header10 .nabvar .socialbar {
+    display: none!important;
+}
+.header10 .logo img {
+    max-width: 300px;
+}
+.header10 .callus a {
+    padding: 0px;
+}
+.header10 .socialbar {
+    text-align: left;
+}
+ .header10 .navbar2 {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid #d9d9d9;
+    text-align: center;
+ }
+ .header10 .navbar a.menuItem {
+    color: #3a3a3a;
+}
+ .header10 .navbar a {
+    color: #3a3a3a;
+    font-weight: bold;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 15px 15px;
+}
+.header10 .menu {
+    background-color: #FFFFFF;
+    width: 100%;
+}
+.header10 .navbar {
+    display: table;
+    width: 100%;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.headerLarge .header10 .navbar .mobilemenu .icon .headerMenuBars {
+    vertical-align: middle;
+    display: inline-block;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 0 0;
+    height: 70px;
+    line-height: 2em;
+    width: 100%;
+    border-radius: 3px;
+    width: 160px;
+    display: inline-table;
+    box-sizing: border-box;
+}
+.headerLarge .header10 .navbar .mobilemenu .icon .menuTitle {
+    margin-left: 10px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    color: #333333;
+    font-size: 25px;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: #e0e0e0;
+}
+.headerSmall .header10 .navbar .menu>ul {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    border-top: 2px solid #d4d4d4;
+}
+.header10 .navbar {
+    display: table;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+.headerSmall .header10 .navbar {
+    padding-left: 0;
+    padding-bottom: 0;
+    padding: 0;
+    border-bottom: 0px solid #d2d2d2;
+    background-color: #fff;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 0 0;
+    height: 70px;
+    line-height: 2em;
+    width: 100%;
+    border-radius: 3px;
+    width: 160px;
+    display: inline-table;
+    box-sizing: border-box;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon .headerMenuBars {
+    vertical-align: middle;
+    display: inline-block;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon .bar {
+    background-color: #333333;
+    height: 4px;
+    width: 28px;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon .menuTitle {
+    margin-left: 10px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 25px;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align: center;
+    width: auto;
+    padding: 0;
+}
+.headerSmall .header10 .navbar .menu>ul {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    border-top: 2px solid #d4d4d4;
+}
+.headerSmall .header10 .navbar li {
+    border-bottom: 0 solid #d9d9d9;
+    padding: 0;
+    margin: 0;
+    background-color: #e0e0e0 ;
+}
+.headerSmall .header10 ul li {
+    display: block;
+}
+.headerSmall .header10 .navbar a {
+    text-align: center;
+    font-weight: 300;
+    font-size: 17px;
+    color: #747474;
+    display: block!important;
+}
+.headerSubmenuHeading i {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 19px;
+    height: 16px;
+    margin: auto;
+}
+.fa-caret-right:before {
+    content: "\f0da";
+}
+/*End mobile menu*/
+.header10 {
+    background-color: #FFFFFF;
+}
+.header10 .infobar {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.header10 .infobar .inner {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+}
+.header10 .infobar .socialbar a {
+    vertical-align: middle;
+    display: inline-block!important;
+    zoom: 1;
+    padding: 0;
+}
+.header10 .checkavail {
+    display: table-cell;
+    vertical-align: middle;
+    position: absolute;
+    border-radius: 3px;
+    background-color: #282828;
+    width: 210px;
+    right: 0;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    top: 40%;
+    padding: 0;
+}
+.header10 .checkavail a, .header10 a:visited {
+    color: #FFFFFF;
+}
+.header10 .infobar .inner {
+    display: table;
+    min-height: 80px;
+}
+.header10 .infobar .socialbar, .header10 .infobar .logo, .header10 .infobar .callus {
+    display: table-cell;
+    vertical-align: top;
+    padding: 0px 0 0 0;
+}
+.header10 .infobar .callus, .header10 .infobar .location {
+    width: 25%;
+}
+.header10 .infobar .logo {
+    width: auto;
+    text-align: center;
+    padding: 0 10px;
+}
+.header10 .infobar .callus a {
+    color: #939393;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 25px;
+}
+.header10 .infobar .callus {
+    text-align: right;
+}
+.header10 .infobar .callus a,
+.header10 .infobar .callus a:visited {
+    color: #939393;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 25px;
+}
+.header10 .infobar .callus a span {
+    color: #AD4736;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+.header10 .infobar .logo a, .header10 .infobar .logo a:visited {
+    font-size: 20px;
+    font-weight: bold;
+    color: [[Property Name Color]];
+    text-transform: uppercase;
+}
+.header10 .mobileOnly {
+    display:none;
+}
+.header10 .mobilemenu {
+    display: none;
+    background-color:#636363;
+    margin-top:10px;
+    line-height:0;
+}
+body:not(.headerSmall) .header10 .navbar .menu > ul > li > a:hover, body:not(.headerSmall) .header10 .navbar .menu > ul > li > a.active {
+    border-bottom: 2px solid #af4d3d;
+}
+body:not(.headerSmall) li.headerSubmenuHeading a:hover {
+    border-bottom: 2px solid #af4d3d;
+} 
+.header10 .navbar .menu > ul > li > a {
+    box-sizing: border-box;
+}
+.header10 .mobileinfobar a img, .header10 .mobileinfobar a > span {
+    display: inline-block;
+}
+.header10 .mobileinfobar .contact-value {
+    color: #AD4736;
+    font-weight: bold; 
+}
+.header10 .mobileinfobar .socialbar a {
+    vertical-align: middle;
+    display: inline-block;
+    zoom: .76
+}
+.headerSmall .header10 .mobilemenu {
+    display: grid;
+    grid-template-columns: auto min-content;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e0e0e0;
+    box-sizing: border-box;
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 80px;
+}
+.menu-wrapper {
+    display: table-cell; 
+    vertical-align: middle;
+}
+.header10 .mobilemenu {
+    display: none;
+        border-bottom: 0px solid #d9d9d9;
+}
+.header10 .mobileOnly {
+    display: none;
+}
+.headerSmall .header10 {
+    padding: 0px;
+}
+body:not(.headerSmall) .header10 .navbar a:not(:first-of-type) {
+    display: none;
+}
+.mobile .header10 .infobar .callus {
+    text-align: right!important;
+    padding-bottom: 10px!important;
+    display: inline-block;
+    width: 100%!important;
+    float: inherit!important;
+    padding-bottom: 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+.headerSmall .header10 .infobar {
+    text-align: center;
+    background-color:  #ffffff;
+}
+.headerSmall .header10 .infobar .inner {
+    display: block;
+}
+.headerSmall .header10 .navbar li {
+    border-bottom: 0 solid #fff;
+    padding: 0;
+    margin: 0;
+    background-color: #e0e0e0;
+    text-align: left;
+}
+.headerSmall .header10 .navbar li:hover {
+    border-bottom: 0px solid #fff;
+    background-color: [[Mobile Dropdown Menu Background Hover Color]];
+    box-sizing: border-box;
+}
+.tablet .header10 .infobar .callus, .header10 .infobar .location {
+    width: 34%;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    padding: 0;
+}
+.headerSmall .header10 .navbar .menu .booking-label {
+    display: inline-block;
+    width: 16em;
+    height: 3em;
+    text-align: center;
+    background-color: [[Property color]];
+    color: #FFFFFF;
+    margin: 25px auto;
+    padding: 3px;
+    border-radius: 1.5em;
+    text-transform: uppercase;
+}
+.headerSmall .header10 .navbar .menu > ul {
+    display: flex;
+    flex-direction: column; 
+    white-space: nowrap;
+}
+.header10 .infobar .callus {
+    text-align: right!important;
+    padding-bottom: 10px!important;
+    display: inline-block!important;
+    width: 210px!important;
+    float: right;
+    padding-bottom: 70px!important;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: #e0e0e0;
+}
+.headerSmall .header10 .navbar a {
+    color: #747474;
+    font-weight: normal;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    text-align: left;
+}
+.headerSmall .header10 .navbar .menu a {
+    padding: 20px 15px;
+    text-align: left;
+}
+.headerSmall .header10 .navbar .menu a:hover {
+    background-color: #d4d4d4;
+}
+.headerSmall .header10 .navbar .menu {
+    border-top: none;
+}
+.headerSmall .header10 .navbar .menuLogoAbove {
+    display: block;
+    padding-top: 25px;
+    border-top: 3px solid [[Property color]];
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 5px 10px;
+    height: 90px;
+    line-height: 2em;
+    border-radius: 2px;
+    width: 100%;
+    display: inline-table;
+    box-sizing: border-box;
+}
+ .headerSmall .header10 .navbar .logo {
+    display:block;
+    text-align:center;
+    width: auto;
+}
+.headerSubmenuHeading > div {
+    position: relative;
+}
+ .headerSmall .header10 .navbar li {
+    border-bottom: 0 solid #fff;
+    padding: 0;
+    margin: 0;
+    background-color: #e0e0e0;
+    text-align: left;
+}
+.header2 .fa {
+    color: [[Mobile Dropdown Text Color]];
+}
+.headerSmall .header10 .navbar li:hover {
+    border-bottom: 0px solid #fff;
+    background-color: [[Mobile Dropdown Menu Background Hover Color]];
+    box-sizing: border-box;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    padding: 0;
+}
+.headerSmall .header10 .navbar .menu .booking-label {
+    display: inline-block;
+    width: 16em;
+    height: 3em;
+    text-align: center;
+    background-color: [[Property color]];
+    color: #FFFFFF;
+    margin: 25px auto;
+    padding: 3px;
+    border-radius: 1.5em;
+    text-transform: uppercase;
+}
+.headerSmall .header10 .navbar .menu > ul {
+    display: flex;
+    flex-direction: column; 
+    white-space: nowrap;
+}
+ .headerSmall .header2 .navbar a {
+    height: 60px;
+    line-height: 60px;
+    text-align: left;
+    font-weight: 300;
+    font-size: 17px;
+    color: [[Mobile Dropdown Text Color]];
+    display: block!important;
+}
+ .headerSmall .header10 .navbar2 {
+    padding-left: 0;
+    padding-bottom: 0;
+    padding: 0;
+    border-bottom: 0px solid [[Mobile Menu Border Color]];
+    background-color: [[Mobile Menu Background Color]];
+    width: 100%;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: [[Mobile Menu Background Color]];
+}
+.headerSmall .header10 ul li {
+    display:block;
+    text-align:center;
+}
+.headerSmall .header10 .logo, .headerSmall .header10 .menu {
+    display:block;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 110px;
+}
+.headerSmall .header10 .logo {
+    padding: 20px 0px;
+}
+.headerSmall .header10 .navbar .menu {
+    border-top: none;
+}
+.headerSmall .header10 .navbar .menuLogoAbove {
+    display: block;
+    padding-top: 25px;
+    border-top: 3px solid [[Property color]];
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 5px 10px;
+    height: 90px;
+    line-height: 2em;
+    border-radius: 2px;
+    width: 100%;
+    display: inline-table;
+    box-sizing: border-box;
+}
+ .headerSmall .header10 .navbar2 a {
+    height: 70px;
+    line-height: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    color: #747474;
+    display: block!important;
+}
+ .headerSmall .header2 .navbar2 .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: #e0e0e0;
+}
+.headerSmall .header10 .navbar2 .mobilemenu .icon .bar {
+    background-color:  #333333;
+    height: 4px;
+    width: 28px;
+}
+.headerSmall .header10 .navbar2 .menu>ul {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    border-top: 0px solid #151515;
+}
+ .headerSmall .header10 .navbar2 .mobilemenu .icon .menuTitle {
+    margin-left: 10px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 25px;
+}
+.header10 .mobilemenu {
+    display: none;
+    margin-top:10px;
+    line-height:0;
+}
+.headerLarge .header10 .navbar .mobilemenu .icon .headerMenuBars {
+    vertical-align: middle;
+    display: inline-block;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 0px 0px;
+    height: 70px;
+    line-height: 2em;
+    width: 100%;
+    border-radius: 3px;
+    width: 160px;
+    display: inline-table;
+    box-sizing: border-box;
+}
+/*End Mobile*/
+.header10 .nabvar .socialbar {
+    display: none!important;
+}
+.header10 .logo img {
+    max-width: 300px;
+}
+.header10 .callus a {
+    padding: 0px;
+}
+.header10 .socialbar {
+    text-align: left;
+}
+ .header10 .navbar2 {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid #d9d9d9;
+    text-align: center;
+ }
+ .header10 .navbar a {
+    color: #3a3a3a;
+    font-weight: bold;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 15px 15px;
+}
+.header10 .menu {
+    background-color: #FFFFFF;
+    width: 100%;
+}
+.header10 .navbar {
+    display: table;
+    width: 100%;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.headerLarge .header10 .navbar .mobilemenu .icon .headerMenuBars {
+    vertical-align: middle;
+    display: inline-block;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 0 0;
+    height: 70px;
+    line-height: 2em;
+    width: 100%;
+    border-radius: 3px;
+    width: 160px;
+    display: inline-table;
+    box-sizing: border-box;
+}
+.headerLarge .header10 .navbar .mobilemenu .icon .menuTitle {
+    margin-left: 10px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    color: #333333;
+    font-size: 25px;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align:center;
+    width: auto;
+    display: none;
+    background-color: #e0e0e0;
+}
+.headerSmall .header10 .navbar .menu>ul {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    border-top: 2px solid #d4d4d4;
+}
+.header10 .navbar {
+    display: table;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+.headerSmall .header10 .navbar {
+    padding-left: 0;
+    padding-bottom: 0;
+    padding: 0;
+    border-bottom: 0px solid #d2d2d2;
+    background-color: #fff;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon {
+    padding: 0 0;
+    height: 70px;
+    line-height: 2em;
+    width: 100%;
+    border-radius: 3px;
+    width: 160px;
+    display: inline-table;
+    box-sizing: border-box;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon .headerMenuBars {
+    vertical-align: middle;
+    display: inline-block;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon .bar {
+    background-color: #333333;
+    height: 4px;
+    width: 28px;
+}
+.headerSmall .header10 .navbar .mobilemenu .icon .menuTitle {
+    margin-left: 10px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 25px;
+}
+.headerSmall .header10 .navbar .menu {
+    text-align: center;
+    width: auto;
+    padding: 0;
+}
+.headerSmall .header10 .navbar .menu>ul {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    border-top: 2px solid #d4d4d4;
+}
+.headerSmall .header10 .navbar li {
+    border-bottom: 0 solid #d9d9d9;
+    padding: 0;
+    margin: 0;
+    background-color: #e0e0e0 ;
+}
+.headerSmall .header10 ul li {
+    display: block;
+}
+.headerSmall .header10 .navbar a {
+    text-align: center;
+    font-weight: 300;
+    font-size: 17px;
+    color: #747474;
+    display: block!important;
+}
+
+.headerSubmenuHeading i {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 19px;
+    height: 16px;
+    margin: auto;
+}
+.fa-caret-right:before {
+    content: "\f0da";
+}
+/*End mobile menu*/
+.header10 {
+    background-color: #FFFFFF;
+}
+.header10 .navbar .menu ul li ul li a {
+     color:#ffffff!important;
+}
+.header10 .navbar .menu ul li ul li {
+    background-color: rgba(0,0,0,.75);
+}
+body:not(.headerSmall) .header10 .menu ul li ul {
+    position: absolute!important;
+}
+.header10 .infobar {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.header10 .infobar .inner {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+}
+.header10 .infobar .socialbar a {
+    vertical-align: middle;
+    display: inline-block!important;
+    padding: 0;
+}
+.header10 .checkavail {
+    display: table-cell;
+    vertical-align: middle;
+    position: absolute;
+    border-radius: 3px;
+    background-color: #282828;
+    width: 210px;
+    right: 0;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    top: 40%;
+    padding: 0;
+}
+.header10 .checkavail a, .header10 a:visited {
+    color: #FFFFFF;
+}
+.header10 .infobar .inner {
+    display: table;
+    min-height: 80px;
+}
+.header10 .infobar .socialbar, .header10 .infobar .logo, .header10 .infobar .callus {
+    display: table-cell;
+    vertical-align: top;
+    padding: 0px 0 0 0;
+}
+.header10 .infobar .callus, .header10 .infobar .location {
+    width: 25%;
+}
+.header10 .infobar .logo {
+    width: auto;
+    text-align: center;
+    padding: 0 10px;
+}
+.header10 .infobar .callus a {
+    color: #939393;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 25px;
+}
+.header10 .infobar .callus {
+    text-align: right;
+}
+.header10 .infobar .callus a,
+.header10 .infobar .callus a:visited {
+    color: #939393;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 25px;
+}
+.header10 .infobar .callus a span {
+    color: #AD4736;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+.header10 .infobar .logo a, .header10 .infobar .logo a:visited {
+    font-size: 20px;
+    font-weight: bold;
+    color: [[Property Name Color]];
+    text-transform: uppercase;
+}
+.header10 .mobileOnly {
+    display:none;
+}
+.header10 .mobilemenu {
+    display: none;
+    background-color:#636363;
+    margin-top:10px;
+    line-height:0;
+}
+body:not(.headerSmall) .header10 .navbar .menu > ul > li > a:hover, body:not(.headerSmall) .header10 .navbar .menu > ul > li > a.active {
+    border-bottom: 2px solid #af4d3d;
+}
+body:not(.headerSmall) li.headerSubmenuHeading a:hover {
+    border-bottom: 2px solid #af4d3d;
+} 
+.header10 .navbar .menu > ul > li > a {
+    box-sizing: border-box;
+}
+.header10 .mobileinfobar a img, .header10 .mobileinfobar a > span {
+    display: inline-block;
+}
+.header10 .mobileinfobar .contact-value {
+    color: #AD4736;
+    font-weight: bold; 
+}
+.header10 .mobileinfobar .socialbar a {
+    vertical-align: middle;
+    display: inline-block;
+    zoom: .76
+}
+.menu-wrapper {
+    display: table-cell; 
+    vertical-align: middle;
+}
+.header10 .mobilemenu {
+    display: none;
+        border-bottom: 0px solid #d9d9d9;
+}
+.header10 .mobileOnly {
+    display: none;
+}
+.headerSmall .header10 {
+    padding: 0px;
+}
+body:not(.headerSmall) .header10 .navbar a:not(:first-of-type) {
+    display: none;
+}
+.mobile.headerSmall .infobar {
+    display: none;
+}
+.mobile.headerSmall .mobileMenuLogo img {
+    max-width: 100%;
+    max-height: 70px;
+}
+.tablet .mobilemenu .mobileMenuLogo {
+    display: none;
+}
+.mobile.headerSmall .mobileOnly .mobileMenuLogo a {
+    line-height: 0;
+    max-width: 100%;
+    height: 100%;
+    padding: 0px 5px 0px 10px;
+}
+.menu .textNumberSection {
+        display: none;
+}
+.altheader .menu .textNumberSection {
+	display: block;
+        background-color: #e0e0e0; 
+	padding-top: 15px
+}
+.menu .textTitle {
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.menu .textNumber a {
+    text-align: center !important;
+    color: black;
+}.header0{ background-image: ; }</style><div class="header header10">
+    <div class="navbar">
+    	<div class="infobar">
+        <div class="inner">
+            <div class="socialbar">
+                <a href="https://www.facebook.com/thebenchmarkinn" target="_blank" aria-label="Facebook"><span class="socialMedia socMedStyle6 socMed1"></span></a> 
+            </div>
+            <div class="logo">
+				<a href="http://www.thebenchmarkinn.com">
+					<span><img src="https://d2u84euz3lkopn.cloudfront.net/abb75ff5-2a5f-4e01-ab89-5e5262a0ec8f.webp" alt="The Benchmark Inn"/></span>			
+				</a>
+			</div>     
+            <div class="callus">
+                <a href="tel:8599049046">
+                    <img src="https://d8qysm09iyvaz.cloudfront.net/system/icons/dark-grey-phone-icon.png" alt="phone"/>
+                    <span>859-904-9046</span>
+                </a>
+            </div>
+           <div class="extrabutton">
+                 <a href="http://www.thebenchmarkinn.com">TEXT</a>
+          </div>
+            <div class="checkavail">
+				<a href="https://resnexus.com/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6">Check Availability</a>
+			</div>
+        <div class="extralink">custom header text</div>
+        </div>
+    </div>
+    <div class="mobileinfobar mobileOnly">
+        <a class="callus" href="tel:8599049046">
+            <img src="https://d8qysm09iyvaz.cloudfront.net/system/icons/cellphone-gray.png" alt="phone"/>
+            <span>
+				<span class="contact-title">Call Us</span>
+            <br /><span class="contact-value">859-904-9046</span>
+            </span>
+        </a>
+        <div class="socialbar">
+            <a href="https://www.facebook.com/thebenchmarkinn" target="_blank" aria-label="Facebook"><span class="socialMedia socMedStyle6 socMed1"></span></a> 
+        </div>
+    </div>
+    <div class="navbar2">
+        <div class="mobilemenu mobileOnly">
+            <div class="mobileMenuLogo">
+                <a href="http://www.thebenchmarkinn.com">
+                    <span><img src="https://d2u84euz3lkopn.cloudfront.net/abb75ff5-2a5f-4e01-ab89-5e5262a0ec8f.webp" alt="The Benchmark Inn"/></span>
+				</a>
+            </div>
+            <div class="icon">
+                <div class="menu-wrapper">
+                    <div class="headerMenuBars">
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                    </div>
+                    <div class="menuTitle">Menu</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="menu">
+         <ul>
+		<li><a href="https://www.thebenchmarkinn.com/" class="menuItem"><span class="menuItemText">Home</span></a></li><li class="headerSubmenuHeading"><div onclick="toggleSubMenu(event, $(this))"><a href="https://www.thebenchmarkinn.com/About/" class="menuItem"><span class="menuItemText">About</span></a><span class="fa fa-caret-right" aria-hidden="true"></span></div><ul><li><a href="https://www.thebenchmarkinn.com/About/Discounts.html" class="menuItem"><span class="menuItemText">Discounts</span></a></li><li><a href="https://www.thebenchmarkinn.com/About/Our-Team.html" class="menuItem"><span class="menuItemText">Our Team</span></a></li><li><a href="https://www.thebenchmarkinn.com/About/policies.html" class="menuItem"><span class="menuItemText">Policies</span></a></li><li><a href="https://www.thebenchmarkinn.com/About/Contact455945162.html" class="menuItem"><span class="menuItemText">FAQ </span></a></li></ul></li><li><a href="https://www.thebenchmarkinn.com/Accommodations.html" class="menuItem"><span class="menuItemText">Accommodations</span></a></li><li><a href="https://www.thebenchmarkinn.com/Things-to-Do.html" class="menuItem"><span class="menuItemText">Things To Do </span></a></li><li><a href="https://www.thebenchmarkinn.com/Dining.html" class="menuItem"><span class="menuItemText">Dining</span></a></li><li><a href="https://www.thebenchmarkinn.com/Massage1818459946.html" class="menuItem"><span class="menuItemText">Event Space</span></a></li><li><a href="https://www.thebenchmarkinn.com/Massage.html" class="menuItem"><span class="menuItemText">Massage</span></a></li><li><a href="https://www.thebenchmarkinn.com/Contact.html" class="menuItem"><span class="menuItemText">Contact Us</span></a></li><li><a href="https://innlesspossibilities.weebly.com/" target="_blank" class="menuItem"><span class="menuItemText">Blog</span></a></li>
+	</ul>
+       
+    </div>
+</div>
+</div>
+
+    </div>
+
+<header class="">
+    <div class="header-background mobile-tablet-only"></div>
+    <div class="property-logo desktop-only">
+        <a target="_parent" href="http://thebenchmarkinn.com"><img src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/10/dae6d8bd-53c4-403b-a888-7aeaa6daef48.jpg?dts=638730068269900000" alt="The Benchmark Inn"></a>
+    </div>
+    <button class="triple-menu mobile-tablet-only" aria-haspopup="true" aria-label="Primary Navigation Menu">
+        <div></div>
+        <div></div>
+        <div></div>
+    </button>
+
+    <div class="menu-items">
+        <div class="menu-picture mobile-tablet-only">
+            <a target="_parent" href="http://thebenchmarkinn.com"><img src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/10/dae6d8bd-53c4-403b-a888-7aeaa6daef48.jpg?dts=638730068269900000" alt="The Benchmark Inn"></a>
+        </div>
+
+        <div class="padding desktop-only">_</div>
+
+            <a href="https://augustaguesthouse.com/" class="menu-item">HOME</a>
+            <a href="https://augustaguesthouse.com/About.html" class="menu-item">ABOUT</a>
+            <a href="https://augustaguesthouse.com/Accommodations.html" class="menu-item">ACCOMMODATIONS</a>
+            <a href="https://augustaguesthouse.com/Things-to-Do.html" class="menu-item">THINGS TO DO</a>
+            <a href="https://augustaguesthouse.com/Dining.html" class="menu-item">DINING</a>
+            <a href="https://augustaguesthouse.com/Contact.html" class="menu-item">CONTACT</a>
+
+        <div class="menu-overflow desktop-only">
+            <div class="triple-dots">
+                <div></div><div></div><div></div>
+            </div>
+            <div class="overflow-items">
+                <div class="spacer"></div>
+            </div>
+        </div>
+
+        <div class="padding desktop-only">_</div>
+
+    </div>
+
+        <div class="phone-number">
+            <span class="fa fa-phone" aria-hidden="true"></span>
+            <a aria-label="Property phone number" href="tel:859-904-9046">859-904-9046</a>
+        </div>
+
+        <div>
+                <a href="sms:859-904-9046" class="text-button" style="margin-left: 15px;" bg1>
+                    <span class="fa fa-comment" aria-hidden="true"></span>
+                    Text Us
+                </a>
+        </div>
+</header>
+
+    <div class="loading-overlay">
+        <div class="loading-spinner"></div>
+    </div>
+
+    <div class="mainContent">
+        
+
+
+
+        <div id="BookingTabsCont">
+            
+
+
+<div class="red-dropdown-bar">
+    <div class="bookingTabs" style="overflow:hidden;">
+                    <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6?roomclass=0" class="tab selected">GUEST ROOMS</a>
+                    <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/giftshop?tabID=12" class="tab">ENHANCE YOUR STAY</a>
+                    <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/services?tabID=10" class="tab">EVENT SPACE</a>
+                    <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/GiftCertificates" class="tab">GIFT CERTIFICATES</a>
+
+    </div>
+    <div class="toggle-slideshow tablet-desktop-only">
+        <span class="down-arrow"></span>
+        <span class="toggle-slideshow-hide" >Hide</span>
+        <span class="toggle-slideshow-expand" >Expand</span>
+    </div>
+    <div class="divider tablet-desktop-only"></div>
+
+    <div class="internationalization-menu">
+        <div class="setting-icon">
+            
+        </div>
+        <div class="menu-content">
+            <div>
+                <select id="Currency" class="rn-select" aria-label="Select Currency">
+                            <option value="en-US" selected="selected">USD ($)</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="view-cart topCartIcon">
+        <img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/TopCartIcon.svg" />
+        <div class="topCartNumItems">
+            <div>0</div>
+        </div>
+    </div>
+</div>
+        </div>
+
+        
+
+
+
+
+
+<div class="availability-popup-panel">
+    <div class="availability-popup-content">
+        <h2>Availability Calendar</h2>
+        <div>for <span class="room-name"></span></div>
+        <div class="availability-close-button close-button">&times;</div>
+        <div class="availability-calendars">
+            
+
+
+<div class="mini-calendar">
+    <div class="date-range-inputs">
+        <h4 class="section-header">Dates</h4>
+        <div class="date-range-row">
+            <div class="input-container">
+                <input type="text" aria-label="Check in date in format Month, Day, Year" class="start-date" />
+                <label>Check In</label>
+            </div>
+            <div class="right-arrow">
+                <span class="fa">&#xf061;</span>
+            </div>
+            <div class="input-container">
+                <input type="text" aria-label="Check out date in format Month, Day, Year" class="end-date" />
+                <label>Check Out</label>
+            </div>
+        </div>
+        <div class="num-nights">
+            <span class="nights"></span> Nights
+        </div>
+    </div>
+
+    <div class="arrow-button arrow-left">
+        <span class="fa">&#xf053;</span>
+    </div>
+    <div class="arrow-button arrow-right">
+        <span class="fa">&#xf054;</span>
+    </div>
+    <div class="month-section">
+
+    </div>
+    <div class="legend-label">Legend:</div>
+    <div class="mini-calendar-legend">
+        <div class="legend-available">Available</div>
+        <div class="legend-unavailable">No Vacancy</div>
+        <div class="legend-selected"><img src="https://d8qysm09iyvaz.cloudfront.net/bookingengine/checkout-arrow.svg" alt="Checkout Icon" />Checkout</div>
+    </div>
+    <div class="cal-additional-details">
+        <span class="select-start-date"><span>Continue or select a new check in date.</span></span>
+        <span class="select-end-date"><span>Continue or Click any date in the future to extend your check out date.</span></span>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+<div class="desktop-grid">
+    <div class="search-filters">
+
+            <div class="search-filter-section">
+                <div class="searchFilterHeader tablet-desktop-only">
+                    <div class="headerLabel">Search</div>
+                    <div class="subHeaderLabel">What dates will you be staying?</div>
+                </div>
+
+                
+
+
+
+
+<div class="guest-filter">
+    <h4 class="section-header">Guests</h4>
+    <div class="guests-dropdown-fancy" aria-haspopup="true" role="button" tabindex="0" aria-labelledby="guests-filter_3183">
+        <div id="guests-filter_3183" style="display: none;">Guest Filter Options</div>
+        <span class="title"></span>
+        <span class="fa">&#xf078;</span>
+        <div class="guests-dropdown-content">
+            <div style="display: none" class="current-capacity" aria-live="assertive" aria-atomic="true"></div>
+            <div style="display: none;" id="subtract_3183">Subtract</div>
+            <div style="display: none;" id="add_3183">Add</div>
+            <div style="display: none;" id="reservableCapacity" data-reservable-capacity="0"></div>
+                <div class="dropdown-item" data-key="Adults">
+                    <span class="title">Guests</span>
+                    <div class="counter" data-min="0" data-max="40">
+                        <button class="counter-button subtract" aria-labelledby="subtract_3183 Capacity1_3183">-</button>
+                        <input type="text" aria-labelledby="Capacity1_3183" class="count" value="1" />
+                        <button class="counter-button add" aria-labelledby="add_3183 Capacity1_3183">+</button>
+                        <div style="display: none" id="Capacity1_3183">
+                            Number of Guests
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dropdown-item" data-key="Capacity2">
+                    <span class="title">Children</span>
+                    <div class="counter" data-max="2">
+                        <button class="counter-button subtract" aria-labelledby="subtract_3183 Capacity2_3183">-</button>
+                        <input type="text" aria-labelledby="Capacity2_3183" class="count" value="0" />
+                        <button class="counter-button add" aria-labelledby="add_3183 Capacity2_3183">+</button>
+                        <div style="display: none" id="Capacity2_3183">
+                            Number of Children
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+            <div class="save-bar">
+                <button class="save-button">Apply</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+                
+
+<div class="date-filter ">
+    <div class="close-button">&times;</div>
+    <div class="date-filter-header">
+        <div class="section-header">Dates</div>
+        <div class="num-nights">
+            <span class="nights"></span> Nights
+        </div>
+    </div>
+    <div class="large-cal-nights-container">
+        <div class="date-range-row">
+            <div class="input-container">
+                <input type="text" aria-label="Check in date in format Month, Day, Year" class="start-date" />
+                <label>Check In</label>
+            </div>
+            <div class="input-container num-nights-container">
+                <input type="number" min="1" max="5" aria-label="Number of nights" class="num-nights-input" />
+                <label>Nights</label>
+            </div>
+            <div class="right-arrow">
+                <span class="fa">&#xf061;</span>
+            </div>
+            <div class="input-container end-date-container">
+                <input type="text" aria-label="Check out date in format Month, Day, Year" class="end-date" />
+                <label>Check Out</label>
+                <div class="ongoing-btn hide-feature">&#x221e;</div>
+            </div>
+        </div>
+        <div class="num-nights large-cal-only">
+            <span class="nights"></span> Nights
+        </div>
+        <div class="apply-button small-apply-button desktop-only">
+            Apply
+        </div>
+    </div>
+    <div class="calendar-widget" data-min-date="02/18/2026" data-max-date="08/18/2027" data-max-num-nights="5">
+        <div class="months-container">
+        </div>
+    </div>
+        <div class="date-picker-messagebox visible">
+            Select a check out date or click check in to select a new check in date
+        </div>
+
+    <div class="apply-button">
+        Apply
+    </div>
+</div>
+
+<script>
+    var CalendarResources = {
+        CantBookTooFarInAdvance: "Cannot make reservations more than 18 months in advance.",
+        CantBookBeforeMinDate: "Reservations must be made at least 24 hours in advance.",
+        CantReserveMoreNights: "Cannot reserve more than 5 nights at a time.",
+        BookUpToXDates: "We allow you to book up to 5 dates at a time. Adjust your check-in date to book this day.",
+        DateBetweenUnavailable: "At least one of the dates between your start date and this date is unavailable for booking.",
+        UnavailableForBooking: "This date is unavailable for booking.",
+    }
+</script>
+
+                <div class="tablet-desktop-only">
+                    
+
+
+<div class="mini-calendar">
+    <div class="date-range-inputs">
+        <h4 class="section-header">Dates</h4>
+        <div class="date-range-row">
+            <div class="input-container">
+                <input type="text" aria-label="Check in date in format Month, Day, Year" class="start-date" />
+                <label>Check In</label>
+            </div>
+            <div class="right-arrow">
+                <span class="fa">&#xf061;</span>
+            </div>
+            <div class="input-container">
+                <input type="text" aria-label="Check out date in format Month, Day, Year" class="end-date" />
+                <label>Check Out</label>
+            </div>
+        </div>
+        <div class="num-nights">
+            <span class="nights"></span> Nights
+        </div>
+    </div>
+
+    <div class="arrow-button arrow-left">
+        <span class="fa">&#xf053;</span>
+    </div>
+    <div class="arrow-button arrow-right">
+        <span class="fa">&#xf054;</span>
+    </div>
+    <div class="month-section">
+
+    </div>
+    <div class="legend-label">Legend:</div>
+    <div class="mini-calendar-legend">
+        <div class="legend-available">Available</div>
+        <div class="legend-unavailable">No Vacancy</div>
+        <div class="legend-selected"><img src="https://d8qysm09iyvaz.cloudfront.net/bookingengine/checkout-arrow.svg" alt="Checkout Icon" />Checkout</div>
+    </div>
+    <div class="cal-additional-details">
+        <span class="select-start-date"><span>Continue or select a new check in date.</span></span>
+        <span class="select-end-date"><span>Continue or Click any date in the future to extend your check out date.</span></span>
+    </div>
+</div>
+
+                </div>
+
+
+                    <div class="availability-grid-link">
+                        <img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /> Check Detailed Availability
+                    </div>
+
+
+                <div class="filter-search">
+                    <button class="search-button">Search</button>
+                </div>
+            </div>
+
+
+        
+    </div>
+    <div class="cartAbandonSection">
+        
+
+
+<div class="search-filter-section cart-abandonment-section">
+        <input type="hidden" id="ca-uniqueid" value="31CA0F44-3824-414D-8838-ABF93CF5A3D6" />
+
+        <div class="primary-panel ca-area ca-style2">
+            <div class="ca-grid">
+                <div>
+                    <span class="title">Leave your email address for specials and promotions</span>
+                </div>
+                <div class="ca-subscribe">
+                    <div>
+                        <input type="text" id="newsletter-email" placeholder="Email Address" title="Email Address" />
+                    </div>
+                    <div>
+                        <input type="button" value="Subscribe" onclick="SubmitEmail();" aria-label="Submit your email address" />
+                    </div>
+                </div>
+                <span id="newsletter-message" class="ca-error"></span>
+                <div class="privacy">
+                    Your information is secure and confidential
+
+                    (<a class="ca-link popupPanelButton" href="javascript:void(0);" data-id="security-popup" title="see more privacy details">more details</a>)
+                </div>
+                <span id="newsletter-success" class="ca-success"></span>
+            </div>
+        </div>
+</div>
+    </div>
+
+    
+
+
+<div class="sidebarsSection">
+        <div class="search-filter-section sidebar-section belowRooms">
+            <div class="sidebar-header">
+                Enhance Your Stay
+            </div>
+
+            <div class="sidebar-content">
+                        <div class="sidebar-item">
+
+
+                            <div class="item-title">
+                                Facials from Forever Beauty by Laura
+                            </div>
+                            <div class="item-image">
+                                <img src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/de0b1da1-e01d-4f19-81fa-ee1ca0a92053.jpg" alt="Image for Facials from Forever Beauty by Laura" />
+                            </div>
+
+                            <div class="item-description" title="Indulge in a rejuvenating escape for your skin at The Benchmark Inn with Forever Beauty. Each 60-minute facial is $75, with optional upgrades ranging from $10–$30 to enhance your results. Enjoy a personalized facial tailored to your skin’s unique needs, or elevate your experience with advanced options such as gentle chemical peels, microdermabrasion, or the NuFace microcurrent lift for a firmer, more youthful glow. Each treatment is designed to nourish, renew, and reveal your most radiant complexion. Must call Laura at 859-446-8245 schedule and she&#39;ll be delighted to arrange a time that works perfectly for you.">
+                                Indulge in a rejuvenating escape for your skin at The ...
+                            </div>
+
+                            <div class="item-price">
+                                 $0.00
+                            </div>
+
+                            <div class="item-action">
+                                    <button class="sidebar-action add-item" onclick="BookRetailItem(90)" title="Add Facials from Forever Beauty by Laura to your cart"><span class="fa"></span>Add</button>
+                            </div>
+                        </div>
+                        <div class="sidebar-item">
+
+
+                            <div class="item-title">
+                                Half Dozen Roses
+                            </div>
+                            <div class="item-image">
+                                <img src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/6661aaca-d6b5-4475-acb2-248041928d0c.jpg" alt="Image for Half Dozen Roses" />
+                            </div>
+
+                            <div class="item-description" title="Add a touch of romance to your stay with six fresh, beautifully arranged roses in a vase, waiting in your room upon arrival. Vase included and may vary from image pictured. Perfect for celebrating love, special occasions, or simply surprising someone special.">
+                                Add a touch of romance to your stay with six fresh, be...
+                            </div>
+
+                            <div class="item-price">
+                                 $50.00
+                            </div>
+
+                            <div class="item-action">
+                                    <button class="sidebar-action add-item" onclick="BookRetailItem(19)" title="Add Half Dozen Roses to your cart"><span class="fa"></span>Add</button>
+                            </div>
+                        </div>
+                        <div class="sidebar-item">
+
+
+                            <div class="item-title">
+                                Small Seasonal Flower Mix
+                            </div>
+                            <div class="item-image">
+                                <img src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/3f4b22bc-0e7d-4f0e-b3ec-834f6e61b803.jpg" alt="Image for Small Seasonal Flower Mix" />
+                            </div>
+
+                            <div class="item-description" title="Brighten your stay with a charming arrangement of fresh, in-season blooms artfully arranged in a vase and waiting in your room. Each bouquet is unique, showcasing the best flowers of the season. Vase included and arrangement will vary from image shown.">
+                                Brighten your stay with a charming arrangement of fres...
+                            </div>
+
+                            <div class="item-price">
+                                 $25.00
+                            </div>
+
+                            <div class="item-action">
+                                    <button class="sidebar-action add-item" onclick="BookRetailItem(83)" title="Add Small Seasonal Flower Mix to your cart"><span class="fa"></span>Add</button>
+                            </div>
+                        </div>
+                        <div class="sidebar-item">
+
+
+                            <div class="item-title">
+                                Rose Petals
+                            </div>
+                            <div class="item-image">
+                                <img src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/86860d57-98f5-4018-aca0-ed9e7f00f997.jpg" alt="Image for Rose Petals" />
+                            </div>
+
+                            <div class="item-description" title="Enhance the romance with delicate rose petals scattered across the bed, creating a warm and memorable welcome. Perfect for honeymoons, anniversaries, or surprise getaways, this elegant touch sets the mood for an unforgettable stay. Available as an add-on to any room reservation.">
+                                Enhance the romance with delicate rose petals scattere...
+                            </div>
+
+                            <div class="item-price">
+                                 $10.00
+                            </div>
+
+                            <div class="item-action">
+                                    <button class="sidebar-action add-item" onclick="BookRetailItem(89)" title="Add Rose Petals to your cart"><span class="fa"></span>Add</button>
+                            </div>
+                        </div>
+            </div>
+        </div>
+</div>
+
+
+    <div class="middle-container">
+        <div id="applied-update-filters" class="applied-update-filters">
+    <div class="applied-filters-top">
+        <div>
+            Applied Filters
+            <div class="current-search-filters"></div>
+        </div>
+        
+        <button class="update-filter-button">Update Filters</button>
+    </div>
+
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('.update-filter-button').on('click', function () {
+            $('#filterspopup').addClass('visible');
+            $('#filterspopup-overlay').addClass('visible');
+            $('#searchBox').addClass('visible');
+            $('#applied-update-filters').removeClass('visible');
+            window.scrollTo(0, 0);
+            $('#filterspopup').scrollTop(0);
+        });
+    });
+</script>
+
+<style>
+    .applied-update-filters {
+        font-size: 1.25rem;
+        font-weight: 600;
+        background: white;
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+
+    .applied-update-filters .current-search-filters:not(:empty) {
+        border: none;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+
+    .applied-update-filters .current-search-filters .filter .close {
+        display: none;
+    }
+
+    .applied-update-filters:not(.visible) {
+        display: none;
+    }
+
+    .applied-filters-top {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .applied-update-filters .current-search-filters .filter {
+        padding: 5px 12px;
+    }
+
+    .update-filter-button {
+        color: var(--main-action-color);
+        border: 2px solid var(--main-action-color);
+        border-radius: 5px;
+        font-size: 1rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        padding: 3px 20px;
+        height: 20%;
+    }
+
+    .update-filter-button:hover {
+        background-color: var(--main-action-color);
+        color: var(--main-action-text);
+    }
+
+    @media only screen and (max-width: 768px) {
+        .applied-filters-top {
+            flex-direction: column;
+            align-items: stretch;
+        }
+
+        .update-filter-button {
+            width: 100%;
+            margin-top: 10px;
+            background-color: var(--main-action-color);
+            color: var(--main-action-text);
+        }
+    }
+</style>
+
+        <div class="searchResultsContainer">
+            <div class="sidebar-top-section"></div>
+            
+
+
+    <div class="infoAlert currentSearchFiltersInfo desktop-only">
+        Friday Mar 20, 2026 - Monday Mar 23, 2026 - 1 Guests. Showing 13 results.
+    </div>
+
+
+
+
+<div class="room-card reservable-card" data-id="5" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/aa7b26d6-fb75-485e-99a0-49276d2f7db3.jpg" loading="lazy" alt="Image 1 for Parkview Room  1 - 2nd Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/701c4b36-c580-48f1-98c3-cdd1ef0b5965.jpg" loading="lazy" alt="Image 2 for Parkview Room  1 - 2nd Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/8d40758a-fe0d-4c3c-b4a3-306f7291bd7e.jpg" loading="lazy" alt="Image 3 for Parkview Room  1 - 2nd Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/318af57c-9632-4a64-b0fe-3bab361c9cde.jpg" loading="lazy" alt="Image 4 for Parkview Room  1 - 2nd Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/1952b872-f397-4e81-96e2-1f113ac1b60a.jpg" loading="lazy" alt="Image 5 for Parkview Room  1 - 2nd Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">5</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Parkview Room  1 - 2nd Floor</h3>
+
+        <div class="room-description">
+            Located on the second floor, the Parkview Room offers a cozy and inviting space with a comfortable queen bed and a private bathroom. This room provides stunning views of the ...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=5">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_5" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_5 rate-name_5 rate-price_5">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_5">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_5">
+                     $169.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $507.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+            <div class="bookable">
+                    <button class="room-action add-room" onclick="BookRoom(5, this)" aria-label="Book Parkview Room  1 - 2nd Floor for 3 nights starting on March 20, 2026, for  $507.00 per night">
+                        Add
+                    </button>
+            </div>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="22" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/644bde88-3ce2-4272-9481-4c02d7b0ba45.jpg" loading="lazy" alt="Image 1 for Honeybee Room 11 - 1st Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/ba029b4e-1852-4ff7-8788-5bafa7246abe.jpg" loading="lazy" alt="Image 2 for Honeybee Room 11 - 1st Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/bc4292cd-9474-41be-8339-16d3e43105b4.jpg" loading="lazy" alt="Image 3 for Honeybee Room 11 - 1st Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/6d162787-f597-47c0-abdb-c2ed8609d477.jpg" loading="lazy" alt="Image 4 for Honeybee Room 11 - 1st Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/b79938bc-8883-489b-976c-411f46b6523e.jpg" loading="lazy" alt="Image 5 for Honeybee Room 11 - 1st Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/f24b7439-cb74-4887-b1a1-651f3ba77b9b.jpg" loading="lazy" alt="Image 6 for Honeybee Room 11 - 1st Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">6</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Honeybee Room 11 - 1st Floor</h3>
+
+        <div class="room-description">
+            Located on the ground floor, the Honeybee Room offers both comfort and convenience with its king-sized adjustable bed and spacious, modern bathroom. The walk-in shower adds a...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=22">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_22" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_22 rate-name_22 rate-price_22">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_22">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_22">
+                     $219.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $657.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+            <div class="bookable">
+                    <button class="room-action add-room" onclick="BookRoom(22, this)" aria-label="Book Honeybee Room 11 - 1st Floor for 3 nights starting on March 20, 2026, for  $657.00 per night">
+                        Add
+                    </button>
+            </div>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="29" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/b9628af4-abd7-4275-b661-3db5fb8161a9.jpg" loading="lazy" alt="Image 1 for Compass Suite + Kitchen Room 12 - 1st Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/0a8f0d85-2463-4247-ac86-a5184c858cc2.jpg" loading="lazy" alt="Image 2 for Compass Suite + Kitchen Room 12 - 1st Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/2ed86c05-63a2-4012-b5fe-60fad92de889.jpg" loading="lazy" alt="Image 3 for Compass Suite + Kitchen Room 12 - 1st Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/e4449a63-cfdc-4e37-845b-3266bb4492be.jpg" loading="lazy" alt="Image 4 for Compass Suite + Kitchen Room 12 - 1st Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/c92bc8de-0a08-4598-b30b-a1b3f3046823.jpg" loading="lazy" alt="Image 5 for Compass Suite + Kitchen Room 12 - 1st Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/bd297c89-414d-44f7-8844-5efa793e8f92.jpg" loading="lazy" alt="Image 6 for Compass Suite + Kitchen Room 12 - 1st Floor" />
+                    <img data-idx="8" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/94f17a4b-34fe-415c-aac2-b04002e0d4fd.jpg" loading="lazy" alt="Image 7 for Compass Suite + Kitchen Room 12 - 1st Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">7</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Compass Suite + Kitchen Room 12 - 1st Floor</h3>
+
+        <div class="room-description">
+            Located on the ground floor, the Compass Suite offers a spacious and inviting retreat with all the comforts of home. This well-appointed suite features a queen-sized bed, a s...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=29">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_29" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_29 rate-name_29 rate-price_29">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_29">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_29">
+                     $239.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $717.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+            <div class="bookable">
+                    <button class="room-action add-room" onclick="BookRoom(29, this)" aria-label="Book Compass Suite + Kitchen Room 12 - 1st Floor for 3 nights starting on March 20, 2026, for  $717.00 per night">
+                        Add
+                    </button>
+            </div>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="12" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/d8a7166e-fb20-46a7-bcaa-88d98afe4c9d.jpg" loading="lazy" alt="Image 1 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/231f3546-5167-48eb-b71c-64f261bcfdc2.jpg" loading="lazy" alt="Image 2 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/d7e63371-97bd-49b8-9021-28c127cb3fad.jpg" loading="lazy" alt="Image 3 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/36dc040a-f5f2-4410-a798-d0e57be0f755.jpg" loading="lazy" alt="Image 4 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/4bd2960f-757e-4c38-b592-c1d0a6c12ecf.jpg" loading="lazy" alt="Image 5 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/ee58d53b-c889-482f-a5fe-59d5a26e821d.jpg" loading="lazy" alt="Image 6 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="8" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/691d6647-6261-45f6-b4f8-083aeefd4c72.jpg" loading="lazy" alt="Image 7 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="9" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/b30fa896-08c3-4b79-99b2-26bcf8906c4e.jpg" loading="lazy" alt="Image 8 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="10" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/9c3bb44f-0441-427d-89e9-a01b23907a87.jpg" loading="lazy" alt="Image 9 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="11" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/fedbd72f-8ddf-4a96-be0a-903f284d8a39.jpg" loading="lazy" alt="Image 10 for Wildcats Room  2 - 2nd Floor" />
+                    <img data-idx="12" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/0fcd1b70-ccb4-417c-a829-3e7a6e9c51f3.jpg" loading="lazy" alt="Image 11 for Wildcats Room  2 - 2nd Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">11</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Wildcats Room  2 - 2nd Floor</h3>
+
+        <div class="room-description">
+            A must-stay for any University of Kentucky fan, the Wildcats Room is a spirited tribute to UK basketball. Located on the second floor, this room features a spacious king-size...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=12">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_12" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_12 rate-name_12 rate-price_12">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_12">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_12">
+                     $159.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $477.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+            <div class="bookable">
+                    <button class="room-action add-room" onclick="BookRoom(12, this)" aria-label="Book Wildcats Room  2 - 2nd Floor for 3 nights starting on March 20, 2026, for  $477.00 per night">
+                        Add
+                    </button>
+            </div>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="3" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/92f1ec4b-fa86-41eb-968e-ea55d88a89a0.jpg" loading="lazy" alt="Image 1 for Bourbon Room 3 - 2nd Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/55c66816-f1cf-46fe-aa51-6923ce6d1ad3.jpg" loading="lazy" alt="Image 2 for Bourbon Room 3 - 2nd Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/07412ed8-51fd-4985-8e9b-df0ce1e3b5ba.jpg" loading="lazy" alt="Image 3 for Bourbon Room 3 - 2nd Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/20f103b0-9ef6-4ced-be57-0f72fcabb36f.jpg" loading="lazy" alt="Image 4 for Bourbon Room 3 - 2nd Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/17487dda-bf2c-4eaf-8c22-bdadc08b7ccd.jpg" loading="lazy" alt="Image 5 for Bourbon Room 3 - 2nd Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/9b8bbfcd-49d8-485d-a352-f0e71358d8b1.jpg" loading="lazy" alt="Image 6 for Bourbon Room 3 - 2nd Floor" />
+                    <img data-idx="8" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/4de17f33-eca4-495c-80d4-ef66562c26e8.jpg" loading="lazy" alt="Image 7 for Bourbon Room 3 - 2nd Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">7</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Bourbon Room 3 - 2nd Floor</h3>
+
+        <div class="room-description">
+            Step into Kentucky’s bourbon heritage, this second-floor room features a plush king bed, private en-suite bath, and elegant bourbon-inspired d&#233;cor. Blending timeless charm wi...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=3">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_3" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_3 rate-name_3 rate-price_3">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_3">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_3">
+                     $189.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $567.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+            <div class="bookable">
+                    <button class="room-action add-room" onclick="BookRoom(3, this)" aria-label="Book Bourbon Room 3 - 2nd Floor for 3 nights starting on March 20, 2026, for  $567.00 per night">
+                        Add
+                    </button>
+            </div>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="2" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/3b82c7eb-9251-4180-8dd5-5089e72ef774.jpg" loading="lazy" alt="Image 1 for Derby Room 5 - 2nd Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/7eceea51-73c4-444d-8f72-ec2dc971ba08.jpg" loading="lazy" alt="Image 2 for Derby Room 5 - 2nd Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/dd8b087d-0229-4ac2-a5d6-bb4e60426c21.jpg" loading="lazy" alt="Image 3 for Derby Room 5 - 2nd Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/5aee6130-7d16-4429-b51f-3a73de9c79fd.jpg" loading="lazy" alt="Image 4 for Derby Room 5 - 2nd Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/69591411-1e7d-4175-8c4a-6707f7f74cfc.jpg" loading="lazy" alt="Image 5 for Derby Room 5 - 2nd Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/930cb3a0-6319-4383-9157-ab336c274582.jpg" loading="lazy" alt="Image 6 for Derby Room 5 - 2nd Floor" />
+                    <img data-idx="8" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/c514ccaf-1449-4eba-936c-7bd76b59ef5e.jpg" loading="lazy" alt="Image 7 for Derby Room 5 - 2nd Floor" />
+                    <img data-idx="9" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/f2474507-9fcd-4e54-9b3c-b5c8157e29e0.jpg" loading="lazy" alt="Image 8 for Derby Room 5 - 2nd Floor" />
+                    <img data-idx="10" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/01d00f38-046b-4721-a94d-ca9f6e9f552f.jpg" loading="lazy" alt="Image 9 for Derby Room 5 - 2nd Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">9</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Derby Room 5 - 2nd Floor</h3>
+
+        <div class="room-description">
+            The Derby Room is a uniquely designed space that celebrates Kentucky’s legendary horse racing tradition. Decorated with elegant touches inspired by the Kentucky Derby, this r...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=2">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_2" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_2 rate-name_2 rate-price_2">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_2">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_2">
+                     $169.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $507.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+            <div class="bookable">
+                    <button class="room-action add-room" onclick="BookRoom(2, this)" aria-label="Book Derby Room 5 - 2nd Floor for 3 nights starting on March 20, 2026, for  $507.00 per night">
+                        Add
+                    </button>
+            </div>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="1" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/8d790b19-cd43-4e5b-bbad-7ce7f4a3e7d7.jpg" loading="lazy" alt="Image 1 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/d6c7bdb0-a125-46b8-be22-cdf941ac6235.jpg" loading="lazy" alt="Image 2 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/47fa2c5d-29f6-466f-bf37-9b359c628d27.jpg" loading="lazy" alt="Image 3 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/d7adb70c-50c1-46dd-8b9f-b46147afe0e8.jpg" loading="lazy" alt="Image 4 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/fdb05838-66c3-48bb-af16-1d23789feb87.jpg" loading="lazy" alt="Image 5 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/e37144d8-5558-442d-add4-177b43a09f0f.jpg" loading="lazy" alt="Image 6 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="8" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/55119f9e-2abe-4dfe-a3c1-b6de23099afd.jpg" loading="lazy" alt="Image 7 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="9" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/ebb9a756-079a-42e1-95cc-1d42e29f0527.jpg" loading="lazy" alt="Image 8 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="10" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/0d45ca5c-890b-4a85-bd2d-ddaea2cfbebe.jpg" loading="lazy" alt="Image 9 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="11" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/e1a20a3f-1068-4bd0-98be-534f87c4ebfa.jpg" loading="lazy" alt="Image 10 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+                    <img data-idx="12" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/5083dff8-329e-4255-9998-dc48093dab3e.jpg" loading="lazy" alt="Image 11 for Captain&#39;s Quarters Room 6 - 2nd Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">11</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Captain&#39;s Quarters Room 6 - 2nd Floor</h3>
+
+        <div class="room-description">
+            The Captain’s Quarters Room draws inspiration from Augusta’s rich history of river travel, offering a serene escape with a queen-size bed and a private en-suite. This room ev...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=1">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_1" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_1 rate-name_1 rate-price_1">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_1">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_1">
+                     $169.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $507.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+            <div class="bookable">
+                    <button class="room-action add-room" onclick="BookRoom(1, this)" aria-label="Book Captain&#39;s Quarters Room 6 - 2nd Floor for 3 nights starting on March 20, 2026, for  $507.00 per night">
+                        Add
+                    </button>
+            </div>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="8" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/9a130437-6291-4679-a3ff-7a5f17aae25d.jpg" loading="lazy" alt="Image 1 for The Bluegrass Room 7 - 2nd Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/643bfa74-9f20-4fa9-bbc2-411257583382.jpg" loading="lazy" alt="Image 2 for The Bluegrass Room 7 - 2nd Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/00e0493e-fe9a-4c43-a1c0-eba527a89029.jpg" loading="lazy" alt="Image 3 for The Bluegrass Room 7 - 2nd Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/92c15bef-a259-42b9-abd6-3b4077219917.jpg" loading="lazy" alt="Image 4 for The Bluegrass Room 7 - 2nd Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/57972902-e440-4189-8edd-ecba53511167.jpg" loading="lazy" alt="Image 5 for The Bluegrass Room 7 - 2nd Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/58147724-7a5f-4f79-9a42-e3f70bc70ffc.jpg" loading="lazy" alt="Image 6 for The Bluegrass Room 7 - 2nd Floor" />
+                    <img data-idx="8" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/71a042b1-a708-48a2-a608-229aaeeafc39.jpg" loading="lazy" alt="Image 7 for The Bluegrass Room 7 - 2nd Floor" />
+                    <img data-idx="9" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/9f3273f8-32cf-4245-a28d-9783038b3a23.jpg" loading="lazy" alt="Image 8 for The Bluegrass Room 7 - 2nd Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">8</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">The Bluegrass Room 7 - 2nd Floor</h3>
+
+        <div class="room-description">
+            A tribute to Kentucky’s rich musical heritage, the Bluegrass Room is a relaxing and tranquil space designed for ultimate comfort. This inviting room features a cozy queen-siz...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=8">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_8" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_8 rate-name_8 rate-price_8">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_8">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_8">
+                     $169.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $507.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+            <div class="bookable">
+                    <button class="room-action add-room" onclick="BookRoom(8, this)" aria-label="Book The Bluegrass Room 7 - 2nd Floor for 3 nights starting on March 20, 2026, for  $507.00 per night">
+                        Add
+                    </button>
+            </div>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="7" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/95668e84-67ee-4674-8a28-42355ec8aff9.jpg" loading="lazy" alt="Image 1 for Guesthouse Room 8 - 2nd Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/f35d102a-45fc-4c2f-8163-7b05c98765be.jpg" loading="lazy" alt="Image 2 for Guesthouse Room 8 - 2nd Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/8ece4d8c-af13-43b6-b7c1-0725e2011af3.jpg" loading="lazy" alt="Image 3 for Guesthouse Room 8 - 2nd Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/f90ee62c-4a9a-4db4-adcb-6316f8777752.jpg" loading="lazy" alt="Image 4 for Guesthouse Room 8 - 2nd Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/6e452162-344a-40f9-b606-7a3dd6457d48.jpg" loading="lazy" alt="Image 5 for Guesthouse Room 8 - 2nd Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/63d0c03b-3b86-4055-ae3c-a82f526d89b5.jpg" loading="lazy" alt="Image 6 for Guesthouse Room 8 - 2nd Floor" />
+                    <img data-idx="8" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/3d479d90-68a1-40a9-97ef-c1ececa26b6b.jpg" loading="lazy" alt="Image 7 for Guesthouse Room 8 - 2nd Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">7</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Guesthouse Room 8 - 2nd Floor</h3>
+
+        <div class="room-description">
+            Located on the second floor, the Guesthouse Room features a comfortable queen-size bed and a private en-suite for your convenience. This room pays homage to the hotel&#39;s most ...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=7">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_7" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_7 rate-name_7 rate-price_7">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_7">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_7">
+                     $169.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $507.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+            <div class="bookable">
+                    <button class="room-action add-room" onclick="BookRoom(7, this)" aria-label="Book Guesthouse Room 8 - 2nd Floor for 3 nights starting on March 20, 2026, for  $507.00 per night">
+                        Add
+                    </button>
+            </div>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="4" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/e10ad7a0-73d6-45f2-bb9d-ee34938695ce.jpg" loading="lazy" alt="Image 1 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/82deda09-b3a3-452d-87d5-9570e8937bcb.jpg" loading="lazy" alt="Image 2 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/7f605c39-75a5-471d-b9fe-56c650b9e71c.jpg" loading="lazy" alt="Image 3 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/d28930ba-0db1-4d04-80a4-1b196d19b4d8.jpg" loading="lazy" alt="Image 4 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/effd70b8-c0a9-4ab3-8bbe-d0d16fe67edc.jpg" loading="lazy" alt="Image 5 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/d02dc250-a8a0-4af0-a06f-d349f24a9b84.jpg" loading="lazy" alt="Image 6 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="8" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/28eb6bcf-9c43-4fc4-8032-55b6659fb761.jpg" loading="lazy" alt="Image 7 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="9" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/e0eabe80-133c-4344-8551-f7839a3b3097.jpg" loading="lazy" alt="Image 8 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="10" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/3f60234a-c968-4f8b-8bd7-192b1c2cbf67.jpg" loading="lazy" alt="Image 9 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="11" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/1af70b3d-7a06-43f1-aeaf-1295a5a73069.jpg" loading="lazy" alt="Image 10 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="12" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/a227e32a-9005-4c4d-86cd-979e58615885.jpg" loading="lazy" alt="Image 11 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="13" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/65ba9541-66be-4ca0-b11b-0aada09c0ec6.jpg" loading="lazy" alt="Image 12 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="14" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/2e87b102-5243-4869-a6be-b7a8fc0c8c95.jpg" loading="lazy" alt="Image 13 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="15" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/68437f0c-3e6e-4af6-928a-66400724deb0.jpg" loading="lazy" alt="Image 14 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+                    <img data-idx="16" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/a229149b-7b51-46c2-80cb-6205ce34f784.jpg" loading="lazy" alt="Image 15 for Lamplighter Rooms 9 &amp; 10 - 2nd Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">15</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Lamplighter Rooms 9 &amp; 10 - 2nd Floor</h3>
+
+        <div class="room-description">
+            The Lamplighter Adjoining Rooms offers a spacious and comfortable stay, perfect for families or groups. This unique accommodation consists of two adjoining rooms—one with a k...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=4">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_4" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_4 rate-name_4 rate-price_4">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_4">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_4">
+                     $269.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $269.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+                <button class="room-action callus" aria-label="CALL US - 859-904-9046" data-phone-number="8599049046" data-text="False">
+                    CALL US - 859-904-9046 
+                </button>
+
+</div>
+<div class="spacer"></div>
+
+
+    <span class="res-status-more-info">
+        Only available until 3/21/2026
+    </span>
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="34" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/ebf79848-3218-40e2-994d-e1e06c312799.jpg" loading="lazy" alt="Image 1 for Event Space" />
+
+        </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Event Space</h3>
+
+        <div class="room-description">
+            Looking for the perfect venue for your next gathering? The Benchmark Inn offers a charming event space ideal for small weddings, rehearsal dinners, showers, and more. With se...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=34">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_34" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+                <button class="room-action occupied" aria-label="UNAVAILABLE" data-phone-number="" data-text="False">
+                    UNAVAILABLE 
+                </button>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="9" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/accd55ac-ad31-4bbe-ab9b-a5b1ad6de72c.jpg" loading="lazy" alt="Image 1 for Buckner Room 4 - 2nd Floor" />
+                    <img data-idx="3" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/fd8f4c1f-b782-4b2c-9721-50d2f8a766e8.jpg" loading="lazy" alt="Image 2 for Buckner Room 4 - 2nd Floor" />
+                    <img data-idx="4" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/257b142a-6ad3-409e-b7f2-0d141e5231ff.jpg" loading="lazy" alt="Image 3 for Buckner Room 4 - 2nd Floor" />
+                    <img data-idx="5" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/ff048da7-4b09-410f-80f5-357f9a8fe544.jpg" loading="lazy" alt="Image 4 for Buckner Room 4 - 2nd Floor" />
+                    <img data-idx="6" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/6ec0f88f-83db-49ba-bed1-bfb3fb536c6a.jpg" loading="lazy" alt="Image 5 for Buckner Room 4 - 2nd Floor" />
+                    <img data-idx="7" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/697bdcb8-3c80-45de-b4a0-67ac425e27b9.jpg" loading="lazy" alt="Image 6 for Buckner Room 4 - 2nd Floor" />
+                    <img data-idx="8" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/4ab7ff47-4940-4302-b485-9bcb788d3df7.jpg" loading="lazy" alt="Image 7 for Buckner Room 4 - 2nd Floor" />
+
+        </div>
+            <div class="slider-controls image-slider-left fa">&#xf053;</div>
+            <div class="slider-controls image-slider-right fa">&#xf054;</div>
+            <div class="image-dots">
+                <div class="dots">
+                        <span class="dot active"></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                        <span class="dot "></span>
+                </div>
+            </div>
+            <div class="image-counter">
+                <span class="current-index">1</span> / <span class="total-count">7</span>
+            </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">Buckner Room 4 - 2nd Floor</h3>
+
+        <div class="room-description">
+            Named in honor of Captain Philip Buckner, a Revolutionary War veteran and the founder of Augusta, the Buckner Room is the largest and most spacious accommodation at The Bench...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=9">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_9" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+    <div class="room-rates-dropdown" role="button" tabindex="0" aria-labelledby="room-rate-selection_9 rate-name_9 rate-price_9">
+        <div class="rate">
+                <div class="rate-name" id="rate-name_9">
+                    Standard Rate
+                </div>
+                <div class="rate-price-per-night" id="rate-price_9">
+                     $189.00 / night
+                </div>
+                <span class="rate-price-total">
+                     $567.00 Total
+                </span>
+        </div>
+
+    </div>
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+                <button class="room-action occupied" aria-label="Buckner Room 4 - 2nd Floor is occupied" data-phone-number="" data-text="False">
+                    OCCUPIED 
+                </button>
+
+</div>
+<div class="spacer"></div>
+
+
+
+    </div>
+</div>
+
+
+<div class="room-card reservable-card" data-id="30" data-class="">
+    <div class="room-gallery image-gallery">
+        <div class="images">
+                    <img data-idx="2" src="https://d8qysm09iyvaz.cloudfront.net/subscribers/31CA0F44-3824-414D-8838-ABF93CF5A3D6/7/lowres/edd37361-d541-487d-b63b-d132c15f2636.jpg" loading="lazy" alt="Image 1 for The Benchmark Inn – Entire House Rental" />
+
+        </div>
+        <div class="image-bar">
+
+        </div>
+    </div>
+
+    <div class="card-content">
+        
+
+
+<div class="room-tags">
+
+
+
+
+    <div class="availability-label pet-friendly hide-feature">Pet Friendly</div>
+</div>
+
+        <h3 class="room-name">The Benchmark Inn – Entire House Rental</h3>
+
+        <div class="room-description">
+            For the ultimate getaway, book the entire Benchmark Inn and enjoy exclusive access to all 12 beautifully appointed rooms, comfortably accommodating up to 24 guests. Perfect f...
+        </div>
+
+        <div class="room-details">
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/?unit=30">More Details <span><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/alert-info.svg" alt="" /><img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" /></span></a>
+        </div>
+
+        
+
+
+<div id="room-rate-selection_30" style="display: none;">
+    Room rate selection popup. Current selection:
+</div>
+
+
+
+
+
+        
+
+
+<style>
+    .reservable-status {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .callUsNumber {
+        align-self: center;
+        color: black;
+    }
+</style>
+
+<div class="reservable-status">
+                <button class="room-action occupied" aria-label="The Benchmark Inn – Entire House Rental is occupied" data-phone-number="" data-text="False">
+                    OCCUPIED 
+                </button>
+
+</div>
+<div class="spacer"></div>
+
+
+    <span class="res-status-more-info">
+        <a href="javascript:void(0)" onclick="BookGen6.ShowRoomAvailability(30)">Click here to check availability</a>
+    </span>
+
+    </div>
+</div>
+
+    <div class="sidebar-bottom-section"></div>
+        <div class="availability-grid-link">
+            Couldn&#39;t find what you were looking for? <span style="font-weight: 600">Check Detailed Availability</span> <img src="https://d8qysm09iyvaz.cloudfront.net/gen6/icons/calendar-icon2.svg" alt="Calendar" />
+        </div>
+
+
+        </div>
+    </div>
+
+    <div id="ListingDetails-panel">
+        <div class="detailsContainer"></div>
+    </div>
+
+<script src='/resnexus/Reservations/js/book/availabilitygrid.min.js?v=12292025220328' defer="defer"></script>
+<div class="availability-grid">
+    <div class="backbar">
+        <button class="blueButton back-button"><span class="fa">&#xf053;</span> Back</button>
+    </div>
+
+    
+
+    <div class="vertical-scroller">
+        <div class="grid-container">
+        <div class="rooms-list">
+            <div class="spacer">
+            </div>
+                <div data-reservableid="34" title="E - Event Space">
+                    E - Event Space
+                </div>
+                <div data-reservableid="5" title="Room 1 - 2nd Floor: Parkview Room  1 - 2nd Floor">
+                    Room 1 - 2nd Floor: Parkview Room  1 - 2nd Floor
+                </div>
+                <div data-reservableid="22" title="Room 11 - 1st Floor Honeybee Room 11 - 1st Floor">
+                    Room 11 - 1st Floor Honeybee Room 11 - 1st Floor
+                </div>
+                <div data-reservableid="29" title="Room 12 - 1st Floor Compass Suite + Kitchen Room 12 - 1st Floor">
+                    Room 12 - 1st Floor Compass Suite + Kitchen Room 12 - 1st Floor
+                </div>
+                <div data-reservableid="12" title="Room 2 - 2nd Floor:  Wildcats Room  2 - 2nd Floor">
+                    Room 2 - 2nd Floor:  Wildcats Room  2 - 2nd Floor
+                </div>
+                <div data-reservableid="3" title="Room 3 - 2nd Floor: Bourbon Room 3 - 2nd Floor">
+                    Room 3 - 2nd Floor: Bourbon Room 3 - 2nd Floor
+                </div>
+                <div data-reservableid="9" title="Room 4 - 2nd Floor Buckner Room 4 - 2nd Floor">
+                    Room 4 - 2nd Floor Buckner Room 4 - 2nd Floor
+                </div>
+                <div data-reservableid="2" title="Room 5 - 2nd Floor: Derby Room 5 - 2nd Floor">
+                    Room 5 - 2nd Floor: Derby Room 5 - 2nd Floor
+                </div>
+                <div data-reservableid="1" title="Room 6 - 2nd Floor: Captain&#39;s Quarters Room 6 - 2nd Floor">
+                    Room 6 - 2nd Floor: Captain&#39;s Quarters Room 6 - 2nd Floor
+                </div>
+                <div data-reservableid="8" title="Room 7 - 2nd Floor: The Bluegrass Room 7 - 2nd Floor">
+                    Room 7 - 2nd Floor: The Bluegrass Room 7 - 2nd Floor
+                </div>
+                <div data-reservableid="7" title="Room 8 - 2nd Floor: Guesthouse Room 8 - 2nd Floor">
+                    Room 8 - 2nd Floor: Guesthouse Room 8 - 2nd Floor
+                </div>
+                <div data-reservableid="4" title="Room 9 &amp; 10 - 2nd Floor Lamplighter Rooms 9 &amp; 10 - 2nd Floor">
+                    Room 9 &amp; 10 - 2nd Floor Lamplighter Rooms 9 &amp; 10 - 2nd Floor
+                </div>
+                <div data-reservableid="30" title="WH The Benchmark Inn – Entire House Rental">
+                    WH The Benchmark Inn – Entire House Rental
+                </div>
+            <span class="fa expand-button">&#xf054;</span>
+        </div>
+        <div class="scroll-section">
+
+
+                <div class="month-divider">
+                    <div>March</div>
+                </div>
+                <div class="month-section">
+                    <div class="headings">
+                            <div>
+                                <div>20</div>
+                                <div>Fri</div>
+                            </div>
+                            <div>
+                                <div>21</div>
+                                <div>Sat</div>
+                            </div>
+                            <div>
+                                <div>22</div>
+                                <div>Sun</div>
+                            </div>
+                            <div>
+                                <div>23</div>
+                                <div>Mon</div>
+                            </div>
+                            <div>
+                                <div>24</div>
+                                <div>Tue</div>
+                            </div>
+                            <div>
+                                <div>25</div>
+                                <div>Wed</div>
+                            </div>
+                            <div>
+                                <div>26</div>
+                                <div>Thu</div>
+                            </div>
+                            <div>
+                                <div>27</div>
+                                <div>Fri</div>
+                            </div>
+                            <div>
+                                <div>28</div>
+                                <div>Sat</div>
+                            </div>
+                            <div>
+                                <div>29</div>
+                                <div>Sun</div>
+                            </div>
+                            <div>
+                                <div>30</div>
+                                <div>Mon</div>
+                            </div>
+                            <div>
+                                <div>31</div>
+                                <div>Tue</div>
+                            </div>
+                    </div>
+
+                        <div class="rooms-availability" data-reservableid="34">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="5">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="22">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="29">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="12">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="3">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="9">
+                                <div data-date="03/20/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="2">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="1">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="8">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="7">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="4">
+                                <div data-date="03/20/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="30">
+                                <div data-date="03/20/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/21/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/22/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/23/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/24/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/25/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/26/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/27/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/28/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                                <div data-date="03/29/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/30/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="03/31/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                </div>
+                <div class="month-divider">
+                    <div>April</div>
+                </div>
+                <div class="month-section">
+                    <div class="headings">
+                            <div>
+                                <div>01</div>
+                                <div>Wed</div>
+                            </div>
+                            <div>
+                                <div>02</div>
+                                <div>Thu</div>
+                            </div>
+                    </div>
+
+                        <div class="rooms-availability" data-reservableid="34">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa occupied"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="5">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="22">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="29">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="12">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="3">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="9">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="2">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="1">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="8">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="7">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="4">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                        <div class="rooms-availability" data-reservableid="30">
+                                <div data-date="04/01/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                                <div data-date="04/02/2026">
+                                    <span class="fa available"></span>
+                                </div>
+                        </div>
+                </div>
+
+        </div>
+    </div>
+    </div>
+</div>
+    
+
+
+<div class="checkout-panel cart-view no-padding" data-next-panel="guest-info-panel">
+        <div class="close-button-cont">
+            
+
+
+<style>
+    .bottomInternationalSettings {
+        height: 40px;
+        align-items: center;
+        padding-left: 20px;
+        display: none;
+    }
+
+    .bottomDropDownsDivider {
+        margin: 0 10px;
+        font-weight: 100;
+    }
+
+    @media only screen and (max-width: 800px) {
+        .bottomInternationalSettings {
+            display: flex;
+        }
+    }
+</style>
+
+<div class="bottomInternationalSettings">
+        <div style="position: relative;">
+            <select class="bottomLanguagesSelect rn-select" aria-label="Select language">
+                    <option value="en-us" selected>English</option>
+            </select>
+        </div>
+        <div class="divider tablet-desktop-only"></div>
+        <div class="bottomDropDownsDivider">|</div>
+
+    <div style="position: relative;">
+        <select class="bottomCurrencySelect rn-select" aria-label="Select Currency">
+                <option value="en-US" selected>USD ($)</option>
+        </select>
+    </div>
+</div>
+
+            <div class="mobile-tablet-only close-button noItems">&times;</div>
+        </div>
+
+    <div class="cart-top-sticky">
+    </div>
+
+    <div class="scrollable-content no-purchases">
+
+
+
+
+
+
+
+
+            <div class="cart-empty-container">
+                <div class="cart-empty-header">
+                    Your Cart is Empty
+                </div>
+                <div class="cart-empty-message">
+                    Add items to your cart to begin your reservation.
+                </div>
+            </div>
+
+    </div>
+
+    
+
+
+        <div class="cart-promo-section">
+            <div class="promo-header" style="font-weight: 500; margin-bottom: 3px">Have a gift certificate or promo code?</div>
+            <div class="input-row">
+                <input type="text" class="style1" placeholder="Enter GC# or Promo Code" aria-label="Enter GC# or Promo Code" id="PromoCode" />
+                <button class="blue apply-promo">Apply</button>
+            </div>
+        </div>
+</div>
+
+<div class="cart-overlay desktop-only">
+</div>
+</div>
+
+<script type="module">
+    $(document).ready(function () {
+        let search = new URLSearchParams(location.search);
+        window.searchParms = search;
+
+        let unit = null;
+        let classID = null;
+        let packageID = null;
+        let availExID = null;
+        let bookRoomID = null;
+        let googleHotelsChannelBusinessID = null;
+
+        for (const key of search.keys()) {
+            switch (key.toLowerCase()) {
+                case "unit":
+                    unit = search.get(key);
+                    break;
+                case "class":
+                    classID = search.get(key);
+                    break;
+                case "bookpackageid":
+                    packageID = search.get(key);
+                    break;
+                case "aeunit":
+                    availExID = search.get(key);
+                    break;
+                case "bookroomid":
+                    bookRoomID = search.get(key);
+                    break;
+                case "googlehotels":
+                    googleHotelsChannelBusinessID = search.get(key);
+                    break;
+                case "resetfilters":
+                    resetFilters(true);
+                    break;
+            }
+        }
+
+        if ((unit != null || availExID != null)
+            && !isGoogleHotelsReservation(googleHotelsChannelBusinessID, availExID)) {
+            BookGen6.LoadRoomDetails(unit, classID, packageID, availExID);
+        }
+
+        if (packageID != null) {
+            BookPackage(packageID);
+        }
+
+        showCartForAutoBooking(bookRoomID, googleHotelsChannelBusinessID, availExID);
+
+        // When loading the page, query string paramters are handled in the code behind. We can now remove the params from the url
+        if (location.href.includes('?')) {
+            // params was set to the .toLowerCase of location.search before, that was messing with Google analytics.  Google analytics
+            // uses base64 encoded URL parameters for cross domain tracking and making the parameters lower case caused errors with that
+            var params = location.search;
+            var searchParams = new URLSearchParams(params);
+
+            // Remove ONLY the QueryString params that we know we have processed
+            General.RemoveProcessedQueryStringParams(searchParams);
+
+            history.replaceState({}, null, location.href.split('?')[0] + '?' + searchParams.toString());
+        }
+    });
+
+    function showCartForAutoBooking(bookRoomID, googleHotelsChannelBusinessID, availExID) {
+        if (IS_DESKTOP) {
+            return;
+        }
+
+        if (bookRoomID != null || isGoogleHotelsReservation(googleHotelsChannelBusinessID, availExID)) {
+            $('.view-cart').trigger('click');
+        }
+    }
+
+    function isGoogleHotelsReservation(googleHotelsChannelBusinessID, availExID) {
+        return googleHotelsChannelBusinessID != null
+            && googleHotelsChannelBusinessID > 0
+            && availExID != null
+            && availExID.length > 0
+    }
+
+    if (typeof AvailabilityGrid !== 'undefined') {
+        $(document).on('click', '.availability-grid-link', AvailabilityGrid.OpenFullPopup);
+    }
+</script>
+    </div>
+
+    <div style="background-color: black; color: white;">
+        
+
+
+<style>
+    .bottomInternationalSettings {
+        height: 40px;
+        align-items: center;
+        padding-left: 20px;
+        display: none;
+    }
+
+    .bottomDropDownsDivider {
+        margin: 0 10px;
+        font-weight: 100;
+    }
+
+    @media only screen and (max-width: 800px) {
+        .bottomInternationalSettings {
+            display: flex;
+        }
+    }
+</style>
+
+<div class="bottomInternationalSettings">
+        <div style="position: relative;">
+            <select class="bottomLanguagesSelect rn-select" aria-label="Select language">
+                    <option value="en-us" selected>English</option>
+            </select>
+        </div>
+        <div class="divider tablet-desktop-only"></div>
+        <div class="bottomDropDownsDivider">|</div>
+
+    <div style="position: relative;">
+        <select class="bottomCurrencySelect rn-select" aria-label="Select Currency">
+                <option value="en-US" selected>USD ($)</option>
+        </select>
+    </div>
+</div>
+    </div>
+
+    
+
+
+<footer>
+    <nav>
+        <a target="_blank" href="PrivacyNotice" title="View Privacy and Security Policies" class="popupPanelButton">Privacy Notice</a>
+
+             | 
+            <a href="javascript:void(0);" title="View ADA Statement" class="popupPanelButton" data-id="ada-popup">ADA Statement</a>
+
+             | 
+            <a target="_blank" href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/MobileMessagingTerms">Mobile Messaging Terms and Conditions</a>
+
+        |
+        <a target="_parent" href="http://thebenchmarkinn.com">The Benchmark Inn</a>
+    </nav>
+
+    <div class="property-info" style="margin-bottom:10px;">
+        The Benchmark Inn - 103 West Second Street, Augusta, Kentucky 41002 US
+    </div>
+
+    Hotel Software by ResNexus. All Rights Reserved 2026.
+</footer>
+
+
+
+<div id="security-popup" class="popup-panel">
+    <div class="title">
+        <div class="inner">
+            Privacy &amp; Security
+        </div>
+        <div class="close-button">&times;</div>
+    </div>
+    <div class="popup-content">
+        <div class="inner" style="overflow-y: auto;">
+                <h3 style="margin-top: 0px;">ResNexus</h3>
+
+            Our property uses ResNexus to provide online reservation services.
+
+            <h3>Privacy</h3>
+            ResNexus respects your privacy and is committed to protecting it. Your personal information is collected and stored to facilitate online reservations with our property.  Basic information concerning your visit to this site is used by ResNexus to improve its service. Your data is never shared with unauthorized outside parties or sold. 
+<br /><br />
+ResNexus has complied with the the foundation principles of GDPR from at least 2010 on and is proud to be GDPR compliant with regards to breach notifications, right to access, right to be forgotten, data portability, privacy by design, and data protection officers. For GDPR inquiries please contact our data protection officer at 385.218.2637.
+
+            <h3>Security</h3>
+            ResNexus uses industry-standard encryption to protect your personal and payment information during and
+        after your reservation.  After your reservation is complete, the system removes your credit card information to prevent
+        theft or disclosure.  ResNexus meets or exceeds rigorous industry standards for protecting credit card information and is
+        PCI compliant.  This PCI compliance has been verified by an external auditor.
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div id="ada-popup" class="popup-panel">
+    <div class="title">
+        <div class="inner">
+            ADA Statement
+        </div>
+        <div class="close-button">&times;</div>
+    </div>
+    <div class="popup-content">
+        <div class="inner" style="overflow-y: auto;">
+            <div class="titleLine">
+                RESNEXUS IS COMMITTED TO EASY ACCESS FOR EVERYONE
+            </div>
+            <div class="preLine">ResNexus is committed to making our online booking engine as accessible as possible to people with special needs, including those with visual, hearing, cognitive and motor impairments. We have invested a large amount of resources working towards improving the accessibility of the ResNexus online booking engine to ensure we provide equal access to all of our users.
+
+To help us make the ResNexus online booking engine a positive experience for everyone, we’ve been using the web content accessibility guidelines (WCAG) 2.1. These guidelines explain how to make web content more accessible for people with disabilities, and user friendly for everyone.
+
+In addition, we recommend that the property using the ResNexus online booking engine install the UserWay widget to provide the best user experience.</div>
+            <br />
+            <div class="titleLine">
+                ADA ACCESSIBLE UNITS
+            </div>
+            As required by law for owner-occupied properties that have more than 5 units*, properties with 6 units or more should provide a unit that is reserved for customers with disabilities. The property should clearly identify these units and describe the accessible features in sufficient detail to reasonably permit individuals with disabilities to assess independently whether the given unit meets his or her accessibility needs. When selecting an ADA designated unit, if you do not have accessibility or other disability needs, please click cancel and select another unit unless it is the last unit available. If you do not meet the American with Disabilities Act (ADA) requirements for this unit and it is not the last unit available, the property reserves the right to change your reservation to another unit without your permission to accommodate customers with qualifying disabilities.
+            <br />
+            <br />
+            <div class="annotation">
+                *According to federal law as found on <a href="https://www.ada.gov/taman3.html" target="_blank" aria-label="Government Rules link">https://www.ada.gov/taman3.html</a>, places of lodging with 5 or less units and have the owner living on the property are exempt from having to have an ADA unit for those with disabilities. Religious organizations are exempt from title III requirements. Historical properties may also be exempt from certain aspects of title III requirements, but property owners need to verify based on local and federal requirements.<br />All other properties may be subject to title III requirements.
+            </div>
+            <br />
+            <div class="titleLine">
+                HOW ARE WE DOING?
+            </div>
+            <div class="preLine">We’ve worked hard on the ResNexus online booking engine and believe we’ve achieved our goal of level ADA accessibility. We monitor the online booking engine regularly to maintain this, but if you do find any problems, please get in touch.
+If you enjoyed using the ResNexus online booking engine, or if you had trouble with any part of it, please get in touch. We’d like to hear from you in any of the following ways:</div>
+            <ul>
+                <li>Email us at support@resnexus.com</li>
+                <li>Call us at 385.218.2637</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<style>
+    .titleLine {
+        font-weight: bold;
+    }
+
+    .annotation {
+        font-size: smaller;
+    }
+</style>
+    
+
+
+<div class="reservation-info-bar mobile-tablet-only no-items">
+    <div class="dates-and-guests">
+        <div class="reservation-info-dates">
+
+
+
+            <br />
+            <div class="reservation-info-guests">
+                
+            </div>
+            <button class="blue-underlined edit-dates mobile-tablet-only hide-feature">
+                Edit Dates
+            </button>
+        </div>
+    </div>
+    <div class="reservation-images">
+
+    </div>
+    <div class="reservation-start-over">
+        <button class="blue-underlined start-over">Start Over</button>
+    </div>
+    <div class="reservation-buttons">
+        <button class="white back-button"><span class="fa">&#xf053;</span>Back</button>
+        <button class="white view-cart"><span class="fa cart-icon">&#xf07a;</span>Cart</button>
+            <a href="/resnexus/reservations/book/31CA0F44-3824-414D-8838-ABF93CF5A3D6/checkout" class="green checkout-button">Checkout</a>
+        <div class="additionalButtons"></div>
+    </div>
+</div>
+
+
+</div>
+
+
+
+    
+    <script data-invalid-number="You have entered in an invalid number."
+            data-nights-positive="Nights must be greater than 0!"
+            data-max-nights="Max number of Nights is {0}"
+            data-not-available="Your selection of {0} Nights is not available, we&#39;ve changed your search to {1} Nights">
+        var resources = {
+            InvalidNumber: '',
+            NightsMustBeGreaterThanZero: '',
+            MaxNumberOfNights: '',
+            SelectionOfNightsNotAvailable: ''
+        };
+
+        (function (currentScript) {
+            let invalidNumber = currentScript.getAttribute("data-invalid-number");
+            let nightsPositive = currentScript.getAttribute("data-nights-positive");
+            let maxNights = currentScript.getAttribute("data-max-nights");
+            let notAvailable = currentScript.getAttribute("data-not-available");
+
+            resources.InvalidNumber = invalidNumber;
+            resources.NightsMustBeGreaterThanZero = nightsPositive;
+            resources.MaxNumberOfNights = maxNights;
+            resources.SelectionOfNightsNotAvailable = notAvailable;
+        })(document.currentScript);
+    </script>
+
+    <input type="hidden" id="MCSRF" value="91a4784fb7e5d3f8af5a6eaede1a8d31c92e78290fd224f61f2a52688ec78a263abf74f9a08a1099e0ccdc6875c03be280e7006a4fde7a1987b9a44cdc65ea18" />
+    <input type="hidden" id="StartDate" value="03/20/2026" />
+    <input type="hidden" id="EndDate" value="03/23/2026" />
+    <input type="hidden" id="MinDate" value="02/18/2026" />
+    <input type="hidden" id="MaxDate" value="08/18/2027" />
+
+    
+    <div id="RetailBookInfo-popup" class="popup-container">
+        <div class="detailsContainer"></div>
+        <div class="close-button">×</div>
+    </div>
+    <div class="modal-overlay"></div>
+
+    
+    <div id="PackageInfo-popup" class="popup-container">
+        <div class="detailsContainer"></div>
+        <div class="close-button">×</div>
+    </div>
+    <div class="modal-overlay"></div>
+
+    
+    <div id="lockfeepopup-wrapper" class="popup-container"></div>
+    <div class="modal-overlay"></div>
+
+    
+    <div id="CertificateForm-popup" class="popup-container">
+        <div class="detailsContainer"></div>
+        <div class="close-button">×</div>
+    </div>
+    <div class="modal-overlay"></div>
+
+</body>
+</html>

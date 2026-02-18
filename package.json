@@ -6,7 +6,8 @@
     "dev": "nodemon --exec ts-node src/server.ts",
     "build": "tsc",
     "start": "node dist/src/server.js",
-    "start:dev": "ts-node src/server.ts"
+    "start:dev": "ts-node src/server.ts",
+    "test:hotel-check": "ts-node lib/hotel-check/test-run.ts"
   },
   "dependencies": {
     "@types/turndown": "^5.0.6",
